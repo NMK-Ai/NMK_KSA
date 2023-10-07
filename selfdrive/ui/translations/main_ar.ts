@@ -664,7 +664,7 @@ Please use caution when using this feature. Only use the blinker when traffic an
     </message>
     <message>
         <source>Turn off the device screen or reduce brightness to protect the screen after driving starts. It automatically brightens or turns on when a touch or event occurs.</source>
-        <translation type="إيقاف تشغيل شاشة الجهاز أو تقليل السطوع لحماية الشاشة بعد بدء القيادة. يتم تفعيله تلقائيًا أو تشغيله عند حدوث لمسة أو حدث."</translation>
+        <translation type="إيقاف تشغيل شاشة الجهاز أو تقليل السطوع لحماية الشاشة بعد بدء القيادة. يتم تفعيله تلقائيًا أو تشغيله عند حدوث لمسة أو حدث."></translation>
     </message>
     <message>
         <source>s</source>
@@ -1089,11 +1089,11 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Laneless</source>
-        <tranlation>بدون مسار</translation>
+        <translation>بدون مسار</translation>
     </message>
     <message>
         <source>Auto</source>
-        <tranlation>تلقائي</translation>
+        <translation>تلقائي</translation>
     </message>
 </context>
 <context>
@@ -1179,8 +1179,8 @@ This may take up to a minute.</source>
     <name>SPVehiclesTogglesPanel</name>
     <message>
         <source>Hyundai/Kia/Genesis</source>
-        <transloation>هيونداي / كيا / جينيسيس</transloation>
-    </message>
+        <translation>هيونداي / كيا / جينيسيس</translation>
+            </message>
     <message>
         <source>Subaru</source>
         <translation>سوبارو</translation>
@@ -1897,6 +1897,7 @@ Estimated time: 30-90 minutes</source>
         <source>When enabled, sunnypilot will attempt to control stock longitudinal control with ACC button presses.
 This feature must be used along with SLC, and/or V-TSC, and/or M-TSC.</source>
         <translation>عند التمكين ، سيحاول القائد الآلي التحكم في التحكم الطولي في الأسهم باستخدام ضغطات زر ACC.
+يجب استخدام هذه الميزة مع SLC و / أو V-TSC و / أو M-TSC.</translation>
     </message>
     <message>
         <source>Use Planner Speed</source>
