@@ -664,7 +664,7 @@ Please use caution when using this feature. Only use the blinker when traffic an
     </message>
     <message>
         <source>Turn off the device screen or reduce brightness to protect the screen after driving starts. It automatically brightens or turns on when a touch or event occurs.</source>
-        <translation type="إيقاف تشغيل شاشة الجهاز أو تقليل السطوع لحماية الشاشة بعد بدء القيادة. يتم تفعيله تلقائيًا أو تشغيله عند حدوث لمسة أو حدث.</translation>
+        <translation type="إيقاف تشغيل شاشة الجهاز أو تقليل السطوع لحماية الشاشة بعد بدء القيادة. يتم تفعيله تلقائيًا أو تشغيله عند حدوث لمسة أو حدث."</translation>
     </message>
     <message>
         <source>s</source>
