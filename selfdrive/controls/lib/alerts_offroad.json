@@ -1,56 +1,56 @@
 {
   "Offroad_TemperatureTooHigh": {
-    "text": "Device temperature too high. System cooling down before starting. Current internal component temperature: %1",
+    "text": "حرارة الجهاز مرتفعة جدًا. النظام يبرد قبل البدء. درجة حرارة المكونات الداخلية الحالية: %1",
     "severity": 1
   },
   "Offroad_ConnectivityNeededPrompt": {
-    "text": "Immediately connect to the internet to check for updates. If you do not connect to the internet, openpilot won't engage in %1",
+    "text": "يرجى الاتصال بالإنترنت على الفور للتحقق من وجود تحديثات. إذا لم تقم بالاتصال بالإنترنت، فلن يتم تشغيل openpilot في %1",
     "severity": 0,
-    "_comment": "Set extra field to number of days"
+    "_comment": "قم بتعيين الحقل الإضافي إلى عدد الأيام"
   },
   "Offroad_ConnectivityNeeded": {
-    "text": "Connect to internet to check for updates. openpilot won't automatically start until it connects to internet to check for updates.",
+    "text": "يرجى الاتصال بالإنترنت للتحقق من وجود تحديثات. لن يتم تشغيل القائد الآلي تلقائيًا حتى يتصل بالإنترنت للتحقق من وجود تحديثات.",
     "severity": 1
   },
   "Offroad_UpdateFailed": {
-    "text": "Unable to download updates\n%1",
+    "text": "غير قادر على التحديث\n%1",
     "severity": 1,
-    "_comment": "Set extra field to the failed reason."
+    "_comment": "قم بتعيين الحقل الإضافي إلى سبب الفشل."
   },
   "Offroad_InvalidTime": {
-    "text": "Invalid date and time settings, system won't start. Connect to internet to set time.",
+    "text": "إعدادات التاريخ والوقت غير صالحة، لن يتم تشغيل النظام. يرجى الاتصال بالإنترنت لتعيين الوقت.",
     "severity": 1
   },
   "Offroad_IsTakingSnapshot": {
-    "text": "Taking camera snapshots. System won't start until finished.",
+    "text": "جاري التقاط صور للكاميرا. لن يتم تشغيل النظام حتى انتهاء العملية.",
     "severity": 0
   },
   "Offroad_NeosUpdate": {
-    "text": "An update to your device's operating system is downloading in the background. You will be prompted to update when it's ready to install.",
+    "text": "تم تنزيل تحديث لنظام تشغيل جهازك في الخلفية. سيتم توجيهك لتثبيت التحديث عندما يكون جاهزًا.",
     "severity": 0
   },
   "Offroad_UnofficialHardware": {
-    "text": "Device failed to register. It will not connect to or upload to comma.ai servers, and receives no support from comma.ai. If this is an official device, visit https://comma.ai/support.",
+    "text": "فشل تسجيل الجهاز. لن يتصل بخوادم comma.ai ولن يقوم برفع أي معلومات إلى خوادم comma.ai، ولن يتلقى الجهاز أي دعم من nmk.sa. إذا كان هذا الجهاز رسميًا، يُرجى زيارة https://nmk.sa/support.",
     "severity": 1
   },
   "Offroad_StorageMissing": {
-    "text": "NVMe drive not mounted.",
+    "text": "قرص NVMe غير مثبت.",
     "severity": 1
   },
   "Offroad_BadNvme": {
-    "text": "Unsupported NVMe drive detected. Device may draw significantly more power and overheat due to the unsupported NVMe.",
+    "text": "تم اكتشاف قرص NVMe غير مدعوم. قد يستهلك الجهاز كمية كبيرة من الطاقة ويتعرض للسخونة بسبب القرص NVMe غير المدعوم.",
     "severity": 1
   },
   "Offroad_CarUnrecognized": {
-    "text": "openpilot was unable to identify your car. Your car is either unsupported or its ECUs are not recognized. Please submit a pull request to add the firmware versions to the proper vehicle. Need help? Join discord.comma.ai.",
+    "text": "لم يتمكن القائد الآلي من التعرف على سيارتك. إما أن سيارتك غير معتمدة أو أن وحدات التحكم الإلكتروني فيها لم تتم التعرف عليها. يُرجى تقديم طلب استلام (Pull Request) لإضافة إصدارات البرامج الثابتة (Firmware) إلى السيارة المناسبة. هل تحتاج إلى مساعدة؟ انضم إلى Discord.nmk.sa.",
     "severity": 0
   },
   "Offroad_NoFirmware": {
-    "text": "openpilot was unable to identify your car. Check integrity of cables and ensure all connections are secure, particularly that the comma power is fully inserted in the OBD-II port of the vehicle. Need help? Join discord.comma.ai.",
+    "text": "لم يتمكن القائد الآلي من التعرف على سيارتك. يرجى التحقق من سلامة الكابلات والتأكد من أن جميع الاتصالات آمنة، وخاصةً التأكد من أن طاقة NMK مُدخلة بالكامل في منفذ OBD-II في السيارة. هل تحتاج إلى مساعدة؟ انضم إلى discord.nmk.sa.",
     "severity": 0
   },
   "Offroad_Recalibration": {
-    "text": "openpilot detected a change in the device's mounting position. Ensure the device is fully seated in the mount and the mount is firmly secured to the windshield.",
+    "text": "اكتشف القائد الآلي تغييرًا في موقع تركيب الجهاز. يُرجى التأكد من أن الجهاز موجود بالكامل في الحامل وأن الحامل مُثبت بإحكام على الزجاج الأمامي.",
     "severity": 0
   }
 }
