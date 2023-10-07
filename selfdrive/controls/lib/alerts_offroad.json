@@ -30,11 +30,11 @@
     "severity": 0
   },
   "Offroad_UnofficialHardware": {
-    "text": "فشل تسجيل الجهاز. لن يتصل بخوادم comma.ai ولن يقوم برفع أي معلومات إلى خوادم comma.ai، ولن يتلقى الجهاز أي دعم من nmk.sa. إذا كان هذا الجهاز رسميًا، يُرجى زيارة https://nmk.sa/support.",
+    "text": "أهلا وسهلا بكم في القائد الآلي لمزيد من التفاصيل نرجو منكم زيارتنا على الموقع www.nmk.sa",
     "severity": 1
   },
   "Offroad_StorageMissing": {
-    "text": "قرص NVMe غير مثبت.",
+    "text": "ذاكرة NVMe غير مثبته.",
     "severity": 1
   },
   "Offroad_BadNvme": {
