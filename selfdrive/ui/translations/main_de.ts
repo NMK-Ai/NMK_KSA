@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.1" language="ar_SA">
 <context>
     <name>AbstractAlert</name>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation>إغلاق</translation>
     </message>
     <message>
         <source>Snooze Update</source>
-        <translation>Update pausieren</translation>
+        <translation>تأجيل التحديث</translation>
     </message>
     <message>
         <source>Reboot and Update</source>
-        <translation>Aktualisieren und neu starten</translation>
+        <translation>إعادة التشغيل والتحديث</translation>
     </message>
 </context>
 <context>
     <name>AdvancedNetworking</name>
     <message>
         <source>Back</source>
-        <translation>Zurück</translation>
+        <translation>رجوع</translation>
     </message>
     <message>
         <source>Enable Tethering</source>
-        <translation>Tethering aktivieren</translation>
+        <translation>تمكين الربط</translation>
     </message>
     <message>
         <source>Tethering Password</source>
-        <translation>Tethering Passwort</translation>
+        <translation>كلمة مرور الربط</translation>
     </message>
     <message>
         <source>EDIT</source>
-        <translation>ÄNDERN</translation>
+        <translation>تعديل</translation>
     </message>
     <message>
         <source>Enter new tethering password</source>
-        <translation>Neues tethering Passwort eingeben</translation>
+        <translation>أدخل كلمة مرور الربط الجديدة</translation>
     </message>
     <message>
         <source>IP Address</source>
-        <translation>IP Adresse</translation>
+        <translation>عنوان IP</translation>
     </message>
     <message>
         <source>Enable Roaming</source>
-        <translation>Roaming aktivieren</translation>
+        <translation>تمكين التجوال</translation>
     </message>
     <message>
         <source>APN Setting</source>
-        <translation>APN Einstellungen</translation>
+        <translation>إعدادات APN</translation>
     </message>
     <message>
         <source>Enter APN</source>
-        <translation>APN eingeben</translation>
+        <translation>أدخل APN</translation>
     </message>
     <message>
         <source>leave blank for automatic configuration</source>
-        <translation>für automatische Konfiguration leer lassen</translation>
+        <translation>اتركه فارغًا للتكوين التلقائي</translation>
     </message>
     <message>
         <source>Cellular Metered</source>
-        <translation>Getaktete Verbindung</translation>
+        <translation>الحساب بالمتر</translation>
     </message>
     <message>
         <source>Prevent large data uploads when on a metered connection</source>
@@ -71,405 +71,407 @@
     <name>AnnotatedCameraWidget</name>
     <message>
         <source>km/h</source>
-        <translation>km/h</translation>
+        <translation>كلم/س</translation>
     </message>
     <message>
         <source>mph</source>
-        <translation>mph</translation>
+        <translation>ميل/س</translation>
     </message>
     <message>
         <source>MAX</source>
-        <translation>MAX</translation>
+        <translation>الأقصى</translation>
     </message>
     <message>
         <source>SPEED</source>
-        <translation>Geschwindigkeit</translation>
+        <translation>السرعة</translation>
     </message>
     <message>
         <source>LIMIT</source>
-        <translation>LIMIT</translation>
+        <translation>الحد</translation>
     </message>
 </context>
 <context>
     <name>AutoLaneChangeTimer</name>
     <message>
         <source>Auto Lane Change Timer</source>
-        <translation type="unfinished"></translation>
+        <translation>مؤقت التغيير التلقائي للمسار</translation>
     </message>
     <message>
         <source>Set a timer to delay the auto lane change operation when the blinker is used. No nudge on the steering wheel is required to auto lane change if a timer is set.
 Please use caution when using this feature. Only use the blinker when traffic and road conditions permit.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتعيين مؤقت لتأخير عملية التغيير التلقائي للمسار عند استخدام المؤشر. لا يلزم الضغط على عجلة القيادة للتغيير التلقائي للمسار إذا تم ضبط مؤقت.
+        يرجى استخدام الحذر عند استخدام هذه الميزة. استخدم المؤشر فقط عندما تسمح حركة المرور وظروف الطريق.</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>ثانية</translation>
     </message>
     <message>
         <source>Nudge</source>
-        <translation type="unfinished"></translation>
+        <translation>بتوقيت</translation>
     </message>
     <message>
         <source>Nudgeless</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون</translation>
     </message>
 </context>
 <context>
     <name>BrightnessControl</name>
     <message>
         <source>Brightness Control (Global, %)</source>
-        <translation type="unfinished"></translation>
+        <translation>تحكم في السطوع (عام، %)</translation>
     </message>
     <message>
         <source>Manually adjusts the global brightness of the screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>يعدل سطوع الشاشة العام يدويًا.</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>تلقائي</translation>
     </message>
 </context>
 <context>
     <name>CameraOffset</name>
     <message>
         <source>Camera Offset - Laneful Only (cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة الكاميرا - فقط في المسار (سم)</translation>
     </message>
     <message>
         <source>Hack to trick vehicle to be left or right biased in its lane. Decreasing the value will make the car keep more left, increasing will make it keep more right. Changes take effect immediately. Default: +4 cm</source>
-        <translation type="unfinished"></translation>
+        <translation>خدعة لخداع السيارة لتكون مائلة إلى اليسار أو اليمين في مسارها. يجعل تقليل القيمة السيارة تبقى أكثر إلى اليسار ، وزيادتها تجعلها تبقى أكثر إلى اليمين. تتم العملية بشكل فوري. الافتراضي: +4 سم</translation>
     </message>
 </context>
 <context>
     <name>ChevronInfo</name>
     <message>
         <source>Display Metrics above Chevron</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض القياسات أعلى السهم</translation>
     </message>
     <message>
         <source>Display useful metrics above the chevron that tracks the lead car (only applicable to cars with openpilot longitudinal control).</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض القياسات المفيدة أعلى السهم الذي يتبع السيارة الرائدة (ينطبق فقط على السيارات ذات التحكم الطولي في القائد الآلي).</translation>
     </message>
     <message>
         <source>OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>المسافة</translation>
     </message>
     <message>
         <source>Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>السرعة</translation>
     </message>
 </context>
 <context>
     <name>ConfirmationDialog</name>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>موافق</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
     <name>DeclinePage</name>
     <message>
         <source>You must accept the Terms and Conditions in order to use openpilot.</source>
-        <translation>Du musst die Nutzungsbedingungen akzeptieren, um Openpilot zu benutzen.</translation>
+        <translation>يجب عليك قبول الشروط والأحكام لاستخدام القائد الآلي.</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Zurück</translation>
+        <translation>رجوع</translation>
     </message>
     <message>
         <source>Decline, uninstall %1</source>
-        <translation>Ablehnen, deinstallieren %1</translation>
+        <translation>رفض، إلغاء تثبيت %1</translation>
     </message>
 </context>
 <context>
     <name>DestinationWidget</name>
     <message>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation>المنزل</translation>
     </message>
     <message>
         <source>Work</source>
-        <translation type="unfinished"></translation>
+        <translation>العمل</translation>
     </message>
     <message>
         <source>No destination set</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تعيين وجهة</translation>
     </message>
     <message>
         <source>No %1 location set</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم تعيين موقع %1</translation>
     </message>
     <message>
         <source>home</source>
-        <translation type="unfinished"></translation>
+        <translation>المنزل</translation>
     </message>
     <message>
         <source>work</source>
-        <translation type="unfinished"></translation>
+        <translation>العمل</translation>
     </message>
 </context>
 <context>
     <name>DevUiInfo</name>
     <message>
         <source>Developer UI List</source>
-        <translation type="unfinished"></translation>
+        <translation>قائمة واجهة المطور</translation>
     </message>
     <message>
         <source>Select the number of lists of real-time parameters you would like to display on the sunnypilot screen while driving.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدد عدد قوائم المعلمات الفورية التي ترغب في عرضها على شاشة القائد الآلي أثناء القيادة.</translation>
     </message>
     <message>
         <source>5 Metrics</source>
-        <translation type="unfinished"></translation>
+        <translation>5 مقاييس</translation>
     </message>
     <message>
         <source>10 Metrics</source>
-        <translation type="unfinished"></translation>
+        <translation>10 مقاييس</translation>
     </message>
 </context>
 <context>
     <name>DevicePanel</name>
     <message>
         <source>Dongle ID</source>
-        <translation>Dongle ID</translation>
+        <translation>معرف الجهاز</translation>
     </message>
     <message>
         <source>N/A</source>
-        <translation>Nicht verfügbar</translation>
+        <translation>غ/م</translation>
     </message>
     <message>
         <source>Serial</source>
-        <translation>Seriennummer</translation>
+        <translation>الرقم التسلسلي</translation>
     </message>
     <message>
         <source>Driver Camera</source>
-        <translation>Fahrerkamera</translation>
+        <translation>كاميرا السائق</translation>
     </message>
     <message>
         <source>PREVIEW</source>
-        <translation>VORSCHAU</translation>
+        <translation>معاينة</translation>
     </message>
     <message>
         <source>Preview the driver facing camera to ensure that driver monitoring has good visibility. (vehicle must be off)</source>
-        <translation>Vorschau der auf den Fahrer gerichteten Kamera, um sicherzustellen, dass die Fahrerüberwachung eine gute Sicht hat. (Fahrzeug muss aus sein)</translation>
+        <translation>معاينة كاميرا السائق للتأكد من أن مراقبة السائق لديها رؤية جيدة. (يجب أن يكون السيارة مغلقة)</translation>
     </message>
     <message>
         <source>Reset Calibration</source>
-        <translation>Neu kalibrieren</translation>
+        <translation>إعادة ضبط المعايرة</translation>
     </message>
     <message>
         <source>RESET</source>
-        <translation>RESET</translation>
+        <translation>إعادة ضبط</translation>
     </message>
     <message>
         <source>Are you sure you want to reset calibration?</source>
-        <translation>Bist du sicher, dass du die Kalibrierung zurücksetzen möchtest?</translation>
+        <translation>هل أنت متأكد أنك تريد إعادة ضبط المعايرة؟</translation>
     </message>
     <message>
         <source>Review Training Guide</source>
-        <translation>Trainingsanleitung wiederholen</translation>
+        <translation>مراجعة دليل التدريب</translation>
     </message>
     <message>
         <source>REVIEW</source>
-        <translation>TRAINING</translation>
+        <translation>مراجعة</translation>
     </message>
     <message>
         <source>Review the rules, features, and limitations of openpilot</source>
-        <translation type="vanished">Wiederhole die Regeln, Fähigkeiten und Limitierungen von Openpilot</translation>
+        <translation>مراجعة القواعد والميزات والقيود للقائد الآلي</translation>
     </message>
     <message>
         <source>Are you sure you want to review the training guide?</source>
-        <translation>Bist du sicher, dass du die Trainingsanleitung wiederholen möchtest?</translation>
+        <translation>هل أنت متأكد أنك تريد مراجعة دليل التدريب؟</translation>
     </message>
     <message>
         <source>Regulatory</source>
+        <translation>التشريعات</translation>
         <translation>Rechtliche Hinweise</translation>
     </message>
     <message>
         <source>VIEW</source>
-        <translation>ANSEHEN</translation>
+        <translation>عرض</translation>
     </message>
     <message>
         <source>Change Language</source>
-        <translation>Sprache ändern</translation>
+        <translation>تغيير اللغة</translation>
     </message>
     <message>
         <source>CHANGE</source>
-        <translation>ÄNDERN</translation>
+        <translation>تغيير</translation>
     </message>
     <message>
         <source>Select a language</source>
-        <translation>Sprache wählen</translation>
+        <translation>اختر لغة</translation>
     </message>
     <message>
         <source>Reboot</source>
-        <translation>Neustart</translation>
+        <translation>إعادة التشغيل</translation>
     </message>
     <message>
         <source>Power Off</source>
-        <translation>Ausschalten</translation>
+        <translation>إيقاف التشغيل</translation>
     </message>
     <message>
         <source>openpilot requires the device to be mounted within 4° left or right and within 5° up or 8° down. openpilot is continuously calibrating, resetting is rarely required.</source>
-        <translation type="vanished">Damit Openpilot funktioniert, darf die Installationsposition nicht mehr als 4° nach rechts/links, 5° nach oben und 8° nach unten abweichen. Openpilot kalibriert sich durchgehend, ein Zurücksetzen ist selten notwendig.</translation>
+        <translation>يتطلب القائد الآلي تركيب الجهاز في حدود 4 درجات إلى اليسار أو اليمين و 5 درجات إلى الأعلى أو 8 درجات إلى الأسفل. يتم معايرة القائد الآلي باستمرار ، ونادرًا ما يتطلب إعادة التعيين.</translation>
     </message>
     <message>
         <source> Your device is pointed %1° %2 and %3° %4.</source>
-        <translation> Deine Geräteausrichtung ist %1° %2 und %3° %4.</translation>
+        <translation> يشير جهازك إلى %1° %2 و %3° %4.</translation>
     </message>
     <message>
         <source>down</source>
-        <translation>unten</translation>
+        <translation>أسفل</translation>
     </message>
     <message>
         <source>up</source>
-        <translation>oben</translation>
+        <translation>أعلى</translation>
     </message>
     <message>
         <source>left</source>
-        <translation>links</translation>
+        <translation>يسار</translation>
     </message>
     <message>
         <source>right</source>
-        <translation>rechts</translation>
+        <translation>يمين</translation>
     </message>
     <message>
         <source>Are you sure you want to reboot?</source>
-        <translation>Bist du sicher, dass du das Gerät neu starten möchtest?</translation>
+        <translation>هل أنت متأكد أنك تريد إعادة التشغيل؟</translation>
     </message>
     <message>
         <source>Disengage to Reboot</source>
-        <translation>Für Neustart deaktivieren</translation>
+        <translation>إلغاء التشغيل لإعادة التشغيل</translation>
     </message>
     <message>
         <source>Are you sure you want to power off?</source>
-        <translation>Bist du sicher, dass du das Gerät ausschalten möchtest?</translation>
+        <translation>هل أنت متأكد أنك تريد إيقاف التشغيل؟</translation>
     </message>
     <message>
         <source>Disengage to Power Off</source>
-        <translation>Zum Ausschalten deaktivieren</translation>
+        <translation>إلغاء التشغيل لإيقاف التشغيل</translation>
     </message>
     <message>
         <source>Reset</source>
-        <translation>Zurücksetzen</translation>
+        <translation>إعادة ضبط</translation>
     </message>
     <message>
         <source>Review</source>
-        <translation>Überprüfen</translation>
+        <translation>مراجعة</translation>
     </message>
     <message>
         <source>TOGGLE</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل</translation>
     </message>
     <message>
         <source>Enable or disable PIN requirement for Fleet Manager access.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين أو تعطيل متطلبات PIN للوصول إلى Fleet Manager.</translation>
     </message>
     <message>
         <source>Are you sure you want to turn off PIN requirement?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل أنت متأكد أنك تريد إيقاف متطلبات PIN؟</translation>
     </message>
     <message>
         <source>Turn Off</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <source>Error Troubleshoot</source>
-        <translation type="unfinished"></translation>
+        <translation>حل المشكلات</translation>
     </message>
     <message>
         <source>Display error from the tmux session when an error has occurred from a system process.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض خطأ من جلسة tmux عند حدوث خطأ من عملية النظام.</translation>
     </message>
     <message>
         <source>Reset Mapbox Access Token</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة ضبط رمز الوصول إلى Mapbox</translation>
     </message>
     <message>
         <source>Are you sure you want to reset the Mapbox access token?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل أنت متأكد أنك تريد إعادة تعيين رمز الوصول إلى Mapbox؟</translation>
     </message>
     <message>
         <source>Reset sunnypilot Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة ضبط إعدادات القائد الآلي</translation>
     </message>
     <message>
         <source>Are you sure you want to reset all sunnypilot settings?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل أنت متأكد أنك تريد إعادة ضبط جميع إعدادات القائد الآلي؟</translation>
     </message>
     <message>
         <source>Review the rules, features, and limitations of sunnypilot</source>
-        <translation type="unfinished"></translation>
+        <translation>مراجعة القواعد والميزات والقيود للقائد الآلي</translation>
     </message>
     <message>
         <source>sunnypilot requires the device to be mounted within 4° left or right and within 5° up or 8° down. sunnypilot is continuously calibrating, resetting is rarely required.</source>
-        <translation type="unfinished"></translation>
+        <translation>يتطلب القائد الآلي تركيب الجهاز في حدود 4 درجات إلى اليسار أو اليمين و 5 درجات إلى الأعلى أو 8 درجات إلى الأسفل. يتم معايرة القائد الآلي باستمرار ، ونادرًا ما يتطلب إعادة التعيين.</translation>
     </message>
 </context>
 <context>
     <name>DriveStats</name>
     <message>
         <source>Drives</source>
-        <translation>Fahrten</translation>
+        <translation>الرحلات</translation>
     </message>
     <message>
         <source>Hours</source>
-        <translation>Stunden</translation>
+        <translation>ساعات</translation>
     </message>
     <message>
         <source>ALL TIME</source>
-        <translation>Gesamtzeit</translation>
+        <translation>كل الوقت</translation>
     </message>
     <message>
         <source>PAST WEEK</source>
-        <translation>Letzte Woche</translation>
+        <translation>الأسبوع الماضي</translation>
     </message>
     <message>
         <source>KM</source>
-        <translation>KM</translation>
+        <translation>كلم</translation>
     </message>
     <message>
         <source>Miles</source>
-        <translation>Meilen</translation>
+        <translation>ميل</translation>
     </message>
 </context>
 <context>
     <name>DriverViewScene</name>
     <message>
         <source>camera starting</source>
-        <translation>Kamera startet</translation>
+        <translation>تشغيل الكاميرا</translation>
     </message>
 </context>
 <context>
     <name>ExperimentalModeButton</name>
     <message>
         <source>EXPERIMENTAL MODE ON</source>
-        <translation>EXPERIMENTELLER MODUS AN</translation>
+        <translation>الوضع التجريبي مُفعل</translation>
     </message>
     <message>
         <source>CHILL MODE ON</source>
-        <translation>ENTSPANNTER MODUS AN</translation>
+        <translation>الوضع الهادئ مُفعل</translation>
     </message>
 </context>
 <context>
     <name>InputDialog</name>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>إلغاء</translation>
     </message>
     <message numerus="yes">
         <source>Need at least %n character(s)!</source>
         <translation>
-            <numerusform>Mindestens %n Buchstabe benötigt!</numerusform>
-            <numerusform>Mindestens %n Buchstaben benötigt!</numerusform>
+            <numerusform>يجب أن يكون على الأقل %n حرفًا!</numerusform>
+            <numerusform>يجب أن يكون على الأقل %n حرفًا!</numerusform>
         </translation>
     </message>
 </context>
@@ -477,101 +479,101 @@ Please use caution when using this feature. Only use the blinker when traffic an
     <name>Installer</name>
     <message>
         <source>Installing...</source>
-        <translation>Installiere...</translation>
+        <translation>تثبيت...</translation>
     </message>
 </context>
 <context>
     <name>MapETA</name>
     <message>
         <source>eta</source>
-        <translation>Ankunft</translation>
+        <translation>وقت الوصول</translation>
     </message>
     <message>
         <source>min</source>
-        <translation>min</translation>
+        <translation>د</translation>
     </message>
     <message>
         <source>hr</source>
-        <translation>std</translation>
+        <translation>س</translation>
     </message>
 </context>
 <context>
     <name>MapSettings</name>
     <message>
         <source>NAVIGATION</source>
-        <translation type="unfinished"></translation>
+        <translation>التنقل</translation>
     </message>
     <message>
         <source>Manage at connect.comma.ai</source>
-        <translation type="unfinished"></translation>
+        <translation>إدارة على connect.nmk.sa</translation>
     </message>
 </context>
 <context>
     <name>MapWindow</name>
     <message>
         <source>Map Loading</source>
-        <translation>Karte wird geladen</translation>
+        <translation>تحميل الخريطة</translation>
     </message>
     <message>
         <source>Waiting for GPS</source>
-        <translation>Warten auf GPS</translation>
+        <translation>انتظار GPS</translation>
     </message>
     <message>
         <source>Waiting for route</source>
-        <translation type="unfinished"></translation>
+        <translation>انتظار المسار</translation>
     </message>
 </context>
 <context>
     <name>MaxTimeOffroad</name>
     <message>
         <source>Max Time Offroad</source>
-        <translation type="unfinished"></translation>
+        <translation>الحد الأقصى للوقت خارج الطريق</translation>
     </message>
     <message>
         <source>Device is automatically turned off after a set time when the engine is turned off (off-road) after driving (on-road).</source>
-        <translation type="unfinished"></translation>
+        <translation>يتم إيقاف تشغيل الجهاز تلقائيًا بعد وقت محدد عند إيقاف تشغيل المحرك (خارج الطريق) بعد القيادة (على الطريق).</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation>ثانية</translation>
     </message>
     <message>
         <source>m</source>
-        <translation type="unfinished">m</translation>
+        <translation>د</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="unfinished"></translation>
+        <translation>س</translation>
     </message>
     <message>
         <source>Always On</source>
-        <translation type="unfinished"></translation>
+        <translation>دائما</translation>
     </message>
     <message>
         <source>Immediate</source>
-        <translation type="unfinished"></translation>
+        <translation>فوري</translation>
     </message>
 </context>
 <context>
     <name>MultiOptionDialog</name>
     <message>
         <source>Select</source>
-        <translation>Auswählen</translation>
+        <translation>اختر</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
     <name>Networking</name>
     <message>
         <source>Advanced</source>
-        <translation>Erweitert</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <source>Enter password</source>
-        <translation>Passwort eingeben</translation>
+        <translation>أدخل كلمة المرور</translation>
     </message>
     <message>
         <source>for &quot;%1&quot;</source>
@@ -579,734 +581,736 @@ Please use caution when using this feature. Only use the blinker when traffic an
     </message>
     <message>
         <source>Wrong password</source>
-        <translation>Falsches Passwort</translation>
+        <translation>كلمة مرور خاطئة</translation>
     </message>
 </context>
 <context>
     <name>OffroadAlert</name>
     <message>
         <source>Immediately connect to the internet to check for updates. If you do not connect to the internet, openpilot won&apos;t engage in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>الاتصال بالإنترنت على الفور للتحقق من وجود تحديثات. إذا لم تتصل بالإنترنت ، فلن يشارك القائد الآلي في %1</translation>
     </message>
     <message>
         <source>Connect to internet to check for updates. openpilot won&apos;t automatically start until it connects to internet to check for updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>الاتصال بالإنترنت للتحقق من وجود تحديثات. لن يبدأ القائد الآلي تلقائيًا حتى يتصل بالإنترنت للتحقق من وجود تحديثات.</translation>
     </message>
     <message>
         <source>Unable to download updates
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر تنزيل التحديثات
+%1</translation>
     </message>
     <message>
         <source>Invalid date and time settings, system won&apos;t start. Connect to internet to set time.</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات تاريخ ووقت غير صالحة ، لن يبدأ النظام. الاتصال بالإنترنت لتعيين الوقت.</translation>
     </message>
     <message>
         <source>Taking camera snapshots. System won&apos;t start until finished.</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط لقطات الكاميرا. لن يبدأ النظام حتى ينتهي.</translation>
     </message>
     <message>
         <source>An update to your device&apos;s operating system is downloading in the background. You will be prompted to update when it&apos;s ready to install.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل تحديث لنظام تشغيل جهازك في الخلفية. سيتم طلب منك تحديث عندما يكون جاهزًا للتثبيت.</translation>
     </message>
     <message>
         <source>Device failed to register. It will not connect to or upload to comma.ai servers, and receives no support from comma.ai. If this is an official device, visit https://comma.ai/support.</source>
-        <translation type="unfinished"></translation>
+        <translation>أهلا وسهلا بكم في القائد الآلي لمزيد من التفاصيل الرجاء الدخول على الرابط www.nmk.sa</translation>
     </message>
     <message>
         <source>NVMe drive not mounted.</source>
-        <translation type="unfinished"></translation>
+        <translation>محرك NVMe غير مركب.</translation>
     </message>
     <message>
         <source>Unsupported NVMe drive detected. Device may draw significantly more power and overheat due to the unsupported NVMe.</source>
-        <translation type="unfinished"></translation>
+        <translation>تم اكتشاف محرك NVMe غير مدعوم. قد يستهلك الجهاز طاقة أكبر بكثير ويسخن بسبب عدم دعم NVMe.</translation>
     </message>
     <message>
         <source>openpilot was unable to identify your car. Your car is either unsupported or its ECUs are not recognized. Please submit a pull request to add the firmware versions to the proper vehicle. Need help? Join discord.comma.ai.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر على القائد الآلي التعرف على سيارتك. إما أن سيارتك غير مدعومة أو أن وحدات التحكم الإلكترونية لم يتم التعرف عليها. يرجى إرسال طلب pull لإضافة إصدارات البرامج الثابتة إلى السيارة المناسبة. هل تحتاج للمساعدة؟ انضم إلى discord.comma.ai.</translation>
     </message>
     <message>
         <source>openpilot was unable to identify your car. Check integrity of cables and ensure all connections are secure, particularly that the comma power is fully inserted in the OBD-II port of the vehicle. Need help? Join discord.comma.ai.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر على القائد الآلي التعرف على سيارتك. تحقق من سلامة الكابلات وتأكد من أن جميع الاتصالات آمنة ، ولا سيما أن الطاقة مدخلة بالكامل في منفذ OBD-II للمركبة. هل تحتاج للمساعدة؟ انضم إلى discord.nmk.sa.</translation>
     </message>
     <message>
         <source>openpilot detected a change in the device&apos;s mounting position. Ensure the device is fully seated in the mount and the mount is firmly secured to the windshield.</source>
-        <translation type="unfinished"></translation>
+        <translation>كشف القائد الآلي عن تغيير في موضع تركيب الجهاز. تأكد من أن الجهاز مثبت بالكامل في الحامل وأن الحامل مثبت بإحكام على الزجاج الأمامي.</translation>
     </message>
     <message>
         <source>Device temperature too high. System cooling down before starting. Current internal component temperature: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>درجة حرارة الجهاز مرتفعة جدًا. تبريد النظام قبل البدء. درجة حرارة المكون الداخلي الحالي: %1</translation>
     </message>
 </context>
 <context>
     <name>OffroadHome</name>
     <message>
         <source>UPDATE</source>
-        <translation>Aktualisieren</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <source> ALERTS</source>
-        <translation> HINWEISE</translation>
+        <translation> تنبيهات</translation>
     </message>
     <message>
         <source> ALERT</source>
-        <translation> HINWEIS</translation>
+        <translation> تنبيه</translation>
     </message>
 </context>
 <context>
     <name>OnroadScreenOff</name>
     <message>
         <source>Driving Screen Off Timer</source>
-        <translation type="unfinished"></translation>
+        <translation type="مؤقت إطفاء الشاشة بالوقت"></translation>
     </message>
     <message>
         <source>Turn off the device screen or reduce brightness to protect the screen after driving starts. It automatically brightens or turns on when a touch or event occurs.</source>
-        <translation type="unfinished"></translation>
+        <translation type="إيقاف تشغيل شاشة الجهاز أو تقليل السطوع لحماية الشاشة بعد بدء القيادة. يتم تفعيله تلقائيًا أو تشغيله عند حدوث لمسة أو حدث."></translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished"></translation>
+        <translation type="ثانية"></translation>
     </message>
     <message>
         <source>Always On</source>
-        <translation type="unfinished"></translation>
+        <translation type="دائما"></translation>
     </message>
 </context>
 <context>
     <name>OnroadScreenOffBrightness</name>
     <message>
         <source>Driving Screen Off Brightness (%)</source>
-        <translation type="unfinished"></translation>
+        <translation type="سطوع إطفاء الشاشة بالوقت (%)"></translation>
     </message>
     <message>
         <source>When using the Driving Screen Off feature, the brightness is reduced according to the automatic brightness ratio.</source>
-        <translation type="unfinished"></translation>
+        <translation type="عند استخدام ميزة إيقاف تشغيل شاشة القيادة ، يتم تقليل السطوع وفقًا لنسبة السطوع التلقائي."></translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation type="داكن"></translation>
     </message>
 </context>
 <context>
     <name>OnroadSettings</name>
     <message>
         <source>ONROAD OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation type="خيارات الطريق"></translation>
     </message>
     <message>
         <source>SUNNYPILOT FEATURES</source>
-        <translation type="unfinished"></translation>
+        <translation type="ميزات القائد الآلي"></translation>
     </message>
 </context>
 <context>
     <name>PairingPopup</name>
     <message>
         <source>Pair your device to your comma account</source>
-        <translation>Verbinde dein Gerät mit deinem comma Konto</translation>
+        <translation>قم بإقران جهازك بحسابك في القائد الآلي</translation>
     </message>
     <message>
         <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>Gehe zu https://connect.comma.ai auf deinem Handy</translation>
+        <translation>انتقل إلى https://connect.nmk.sa على هاتفك</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
-        <translation>Klicke auf &quot;neues Gerät hinzufügen&quot; und scanne den QR code rechts</translation>
+        <translation>انقر فوق &quot;إضافة جهاز جديد&quot; ومسح رمز الاستجابة السريعة على اليمين</translation>
     </message>
     <message>
         <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>Füge connect.comma.ai als Lesezeichen auf deinem Homescreen hinzu um es wie eine App zu verwenden</translation>
+        <translation>أضف connect.nmk.sa إلى الشاشة الرئيسية لاستخدامه كتطبيق</translation>
     </message>
 </context>
 <context>
     <name>ParamControl</name>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>الغاء</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Aktivieren</translation>
+        <translation>تمكين</translation>
     </message>
 </context>
 <context>
     <name>PathOffset</name>
     <message>
         <source>Path Offset (cm)</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحة المسار (سم)</translation>
     </message>
     <message>
         <source>Hack to trick the model path to be left or right biased of the lane. Decreasing the value will shift the model more left, increasing will shift the model more right. Changes take effect immediately.</source>
-        <translation type="unfinished"></translation>
+        <translation>اختراق لخداع مسار النموذج ليكون مائلًا إلى اليسار أو اليمين من المسار. سيؤدي تقليل القيمة إلى نقل النموذج أكثر إلى اليسار ، وزيادة القيمة ستنقل النموذج أكثر إلى اليمين. التغييرات تسري على الفور.</translation>
     </message>
 </context>
 <context>
     <name>PrimeAdWidget</name>
     <message>
         <source>Upgrade Now</source>
-        <translation>Jetzt abonieren</translation>
+        <translation>قم بالترقية الآن</translation>
     </message>
     <message>
         <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>Werde Comma Prime Mitglied auf connect.comma.ai</translation>
+        <translation>كن عضوًا في القائد الآلي على connect.nmk.sa</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
-        <translation>PRIME FUNKTIONEN:</translation>
+        <translation>ميزات القائد الآلي:</translation>
     </message>
     <message>
         <source>Remote access</source>
-        <translation>Fernzugriff</translation>
+        <translation>الوصول عن بعد</translation>
     </message>
     <message>
         <source>24/7 LTE connectivity</source>
-        <translation type="unfinished"></translation>
+        <translation>اتصال LTE على مدار 24/7</translation>
     </message>
     <message>
         <source>Turn-by-turn navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>تنقل بالدوران</translation>
     </message>
     <message>
         <source>1 year of drive storage</source>
-        <translation type="unfinished"></translation>
+        <translation>1 عام من تخزين القيادة</translation>
     </message>
 </context>
 <context>
     <name>PrimeUserWidget</name>
     <message>
         <source>✓ SUBSCRIBED</source>
-        <translation>✓ ABBONIERT</translation>
+        <translation>✓ مشترك</translation>
     </message>
     <message>
         <source>comma prime</source>
-        <translation>comma prime</translation>
+        <translation>nmk prime</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Reboot</source>
-        <translation>Neustart</translation>
+        <translation>إعادة التشغيل</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Verlassen</translation>
+        <translation>خروج</translation>
     </message>
     <message>
         <source>dashcam</source>
-        <translation>dashcam</translation>
+        <translation>الداشكام</translation>
     </message>
     <message>
         <source>openpilot</source>
-        <translation type="vanished">openpilot</translation>
+        <translation>القائد الآلي</translation>
     </message>
     <message numerus="yes">
         <source>%n minute(s) ago</source>
         <translation>
-            <numerusform>vor %n Minute</numerusform>
-            <numerusform>vor %n Minuten</numerusform>
+            <numerusform>منذ %n دقيقة</numerusform>
+            <numerusform>منذ %n دقيقة</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s) ago</source>
         <translation>
-            <numerusform>vor %n Stunde</numerusform>
-            <numerusform>vor %n Stunden</numerusform>
+            <numerusform>منذ %n ساعة</numerusform>
+            <numerusform>منذ %n ساعة</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%n day(s) ago</source>
         <translation>
-            <numerusform>vor %n Tag</numerusform>
-            <numerusform>vor %n Tagen</numerusform>
+            <numerusform>منذ %n يوم</numerusform>
+            <numerusform>منذ %n يوم</numerusform>
         </translation>
     </message>
     <message>
         <source>km</source>
-        <translation>km</translation>
+        <translation>كلم</translation>
     </message>
     <message>
         <source>m</source>
-        <translation>m</translation>
+        <translation>م</translation>
     </message>
     <message>
         <source>mi</source>
-        <translation>mi</translation>
+        <translation>ميل</translation>
     </message>
     <message>
         <source>ft</source>
-        <translation>fuß</translation>
+        <translation>قدم</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <source>sunnypilot</source>
-        <translation type="unfinished"></translation>
+        <translation>القائد الآلي</translation>
     </message>
 </context>
 <context>
     <name>Reset</name>
     <message>
         <source>Reset failed. Reboot to try again.</source>
-        <translation>Zurücksetzen fehlgeschlagen. Starte das Gerät neu und versuche es wieder.</translation>
+        <translation>فشل إعادة التعيين. أعد التشغيل للمحاولة مرة أخرى.</translation>
     </message>
     <message>
         <source>Are you sure you want to reset your device?</source>
-        <translation>Bist du sicher, dass du das Gerät auf Werkseinstellungen zurücksetzen möchtest?</translation>
+        <translation>هل أنت متأكد أنك تريد إعادة تعيين جهازك؟</translation>
     </message>
     <message>
         <source>System Reset</source>
-        <translation>System auf Werkseinstellungen zurücksetzen</translation>
+        <translation>إعادة ضبط النظام</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Abbrechen</translation>
+        <translation>إلغاء</translation>
     </message>
     <message>
         <source>Reboot</source>
-        <translation>Neustart</translation>
+        <translation>إعادة التشغيل</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation>Bestätigen</translation>
+        <translation>تأكيد</translation>
     </message>
     <message>
         <source>Unable to mount data partition. Partition may be corrupted. Press confirm to erase and reset your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>تعذر تركيب قسم البيانات. قد يتم تلف القسم. اضغط على تأكيد لمسح وإعادة تعيين الجهاز.</translation>
     </message>
     <message>
         <source>Press confirm to erase all content and settings. Press cancel to resume boot.</source>
-        <translation type="unfinished"></translation>
+        <translation>اضغط على تأكيد لمسح كل المحتويات والإعدادات. اضغط على إلغاء لاستئناف التمهيد.</translation>
     </message>
     <message>
         <source>Resetting device...
 This may take up to a minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين الجهاز...
+قد يستغرق ذلك دقيقة واحدة.</translation>
     </message>
 </context>
 <context>
     <name>SPControlsPanel</name>
     <message>
         <source>Enable M.A.D.S.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين M.A.D.S.</translation>
     </message>
     <message>
         <source>Enable the beloved M.A.D.S. feature. Disable toggle to revert back to stock openpilot engagement/disengagement.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين ميزة M.A.D.S. المحبوبة. تعطيل التبديل للعودة إلى التشغيل / الإيقاف الافتراضي للقائد الآلي.</translation>
     </message>
     <message>
         <source>Disengage ALC On Brake Pedal ℹ</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء تشغيل ALC على دواسة الفرامل ℹ</translation>
     </message>
     <message>
         <source>Define brake pedal interactions with sunnypilot when M.A.D.S. is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديد تفاعلات دواسة الفرامل مع القائد الآلي عند تمكين M.A.D.S.</translation>
     </message>
     <message>
         <source>Enabled: Pressing the brake pedal will disengage Automatic Lane Centering (ALC) on sunnypilot.</source>
-        <translation type="unfinished"></translation>
+        <translation>ممكّن: الضغط على دواسة الفرامل سيؤدي إلى إلغاء تشغيل Automatic Lane Centering (ALC) على القائد الآلي.</translation>
     </message>
     <message>
         <source>Disabled: Pressing the brake pedal will &lt;b&gt;NOT&lt;/b&gt; disengage Automatic Lane Centering (ALC) on sunnypilot.</source>
-        <translation type="unfinished"></translation>
+        <translation>معطل: الضغط على دواسة الفرامل &lt;b&gt; لن &lt;/b&gt; يؤدي إلى إلغاء تشغيل Automatic Lane Centering (ALC) على القائد الآلي.</translation>
     </message>
     <message>
         <source>Enable ACC+MADS with RES+/SET-</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين ACC + MADS مع RES + / SET-</translation>
     </message>
     <message>
         <source>Engage both M.A.D.S. and ACC with a single press of RES+ or SET- button.</source>
-        <translation type="unfinished"></translation>
+        <translation>شغل كل من M.A.D.S. و ACC بضغطة واحدة على زر RES + أو SET-.</translation>
     </message>
     <message>
         <source>Note: Once M.A.D.S. is engaged via this mode, it will remain engaged until it is manually disabled via the M.A.D.S. button or car shut off.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظة: بمجرد تشغيل M.A.D.S. عبر هذا الوضع ، سيظل تشغيله حتى يتم تعطيله يدويًا عبر زر M.A.D.S. أو إيقاف تشغيل السيارة.</translation>
     </message>
     <message>
         <source>Toggle M.A.D.S. with Cruise Main</source>
-        <translation type="unfinished"></translation>
+        <translation>تبديل M.A.D.S. مع Cruise Main</translation>
     </message>
     <message>
         <source>Allows M.A.D.S. engagement/disengagement with &quot;Cruise Main&quot; cruise control button from the steering wheel.</source>
-        <translation type="unfinished"></translation>
+        <translation>يسمح بتشغيل / إيقاف M.A.D.S. باستخدام زر التحكم في السرعة &quot;Cruise Main&quot; من عجلة القيادة.</translation>
     </message>
     <message>
         <source>Pause Lateral Below Speed w/ Blinker</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف مؤقت لاتيرال أدناه سرعة w / Blinker</translation>
     </message>
     <message>
         <source>Enable this toggle to pause lateral actuation with blinker when traveling below 30 MPH or 50 KM/H.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين هذا التبديل لإيقاف تشغيل الجانب الأفقي مع المؤشر عند السفر أقل من 30 ميلاً في الساعة أو 50 كم / ساعة.</translation>
     </message>
     <message>
         <source>Block Lane Change: Road Edge Detection</source>
-        <translation type="unfinished"></translation>
+        <translation>منع تغيير المسار: كشف حافة الطريق</translation>
     </message>
     <message>
         <source>Enable this toggle to block lane change when road edge is detected on the stalk actuated side.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين هذا التبديل لمنع تغيير المسار عند اكتشاف حافة الطريق على الجانب الذي تم تشغيله.</translation>
     </message>
     <message>
         <source>Laneless for Curves in &quot;Auto lane&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون مسار للمنحنيات في &quot;مسار تلقائي&quot;</translation>
     </message>
     <message>
         <source>While in Auto Lane, switch to Laneless for current/future curves.</source>
-        <translation type="unfinished"></translation>
+        <translation>أثناء وجود Auto Lane ، انتقل إلى Laneless للمنحنيات الحالية / المستقبلية.</translation>
     </message>
     <message>
         <source>Enable Dynamic Experimental Control</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين التحكم التجريبي الديناميكي</translation>
     </message>
     <message>
         <source>Enable toggle to allow the model to determine when to use openpilot ACC or openpilot End to End Longitudinal.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين التبديل للسماح للنموذج بتحديد متى يتعين على openpilot ACC أو openpilot End to End Longitudinal.</translation>
     </message>
     <message>
         <source>Custom Offsets</source>
-        <translation type="unfinished"></translation>
+        <translation>إزاحات مخصصة</translation>
     </message>
     <message>
         <source>Add custom offsets to Camera and Path in sunnypilot.</source>
-        <translation type="unfinished"></translation>
+        <translation>إضافة إزاحات مخصصة إلى الكاميرا والمسار في القائد الآلي.</translation>
     </message>
     <message>
         <source>Auto Lane Change: Delay with Blind Spot</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير المسار التلقائي: تأخير مع النقطة العمياء</translation>
     </message>
     <message>
         <source>Toggle to enable a delay timer for seamless lane changes when blind spot monitoring (BSM) detects a obstructing vehicle, ensuring safe maneuvering.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين مؤقت التأخير للتغييرات السلسة في المسار عندما يكتشف مراقب النقطة العمياء (BSM) مركبة تعوق ، مما يضمن المناورة الآمنة.</translation>
     </message>
     <message>
         <source>Enforce Torque Lateral Control</source>
-        <translation type="unfinished"></translation>
+        <translation>فرض التحكم الجانبي بالعزم</translation>
     </message>
     <message>
         <source>Enable this to enforce sunnypilot to steer with Torque lateral control.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين هذا لفرض القائد الآلي على التوجيه مع التحكم الجانبي بالعزم.</translation>
     </message>
     <message>
         <source>Enable Self-Tune</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين الضبط الذاتي</translation>
     </message>
     <message>
         <source>Enables self-tune for Torque lateral control for platforms that do not use Torque lateral control by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكن الضبط الذاتي للتحكم الجانبي بالعزم للمنصات التي لا تستخدم التحكم الجانبي بالعزم بشكل افتراضي.</translation>
     </message>
     <message>
         <source>Less Restrict Settings for Self-Tune (Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات أقل قيد للضبط الذاتي (بيتا)</translation>
     </message>
     <message>
         <source>Less strict settings when using Self-Tune. This allows torqued to be more forgiving when learning values.</source>
-        <translation type="unfinished"></translation>
+        <translation>إعدادات أقل صرامة عند استخدام الضبط الذاتي. هذا يسمح بتسامح أكبر عند تعلم القيم.</translation>
     </message>
     <message>
         <source>Enable Custom Tuning</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين الضبط المخصص</translation>
     </message>
     <message>
         <source>Enables custom tuning for Torque lateral control. Modifying FRICTION and LAT_ACCEL_FACTOR below will override the offline values indicated in the YAML files within &quot;selfdrive/torque_data&quot;. The values will also be used live when &quot;Override Self-Tune&quot; toggle is enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكن الضبط المخصص للتحكم الجانبي بالعزم. سيؤدي تعديل FRICTION و LAT_ACCEL_FACTOR أدناه إلى تجاوز القيم غير المتصلة المشار إليها في ملفات YAML داخل &quot;selfdrive / torque_data&quot;. ستستخدم القيم أيضًا مباشرة عند تمكين التبديل &quot;تجاوز الضبط الذاتي&quot;.</translation>
     </message>
     <message>
         <source>Manual Real-Time Tuning</source>
-        <translation type="unfinished"></translation>
+        <translation>الضبط اليدوي في الوقت الحقيقي</translation>
     </message>
     <message>
         <source>Enforces the torque lateral controller to use the fixed values instead of the learned values from Self-Tune. Enabling this toggle overrides Self-Tune values.</source>
-        <translation type="unfinished"></translation>
+        <translation>يفرض تحكم العزم الجانبي على استخدام القيم الثابتة بدلاً من القيم المتعلمة من الضبط الذاتي. تمكين هذا التبديل يتجاوز قيم الضبط الذاتي.</translation>
     </message>
     <message>
         <source>Enable Hands on Wheel Monitoring</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين مراقبة اليدين على عجلة القيادة</translation>
     </message>
     <message>
         <source>Monitor and alert when driver is not keeping the hands on the steering wheel.</source>
-        <translation type="unfinished"></translation>
+        <translation>مراقبة وتنبيه عندما لا يضع السائق يديه على عجلة القيادة.</translation>
     </message>
     <message>
         <source>Enable Vision Based Turn Speed Control (V-TSC)</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين التحكم في سرعة الدوران القائم على الرؤية (V-TSC)</translation>
     </message>
     <message>
         <source>Use vision path predictions to estimate the appropriate speed to drive through turns ahead.</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم توقعات مسار الرؤية لتقدير السرعة المناسبة للقيادة من خلال المنعطفات المقبلة.</translation>
     </message>
     <message>
         <source>Enable Speed Limit Control (SLC)</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين التحكم في حد السرعة (SLC)</translation>
     </message>
     <message>
         <source>Use speed limit signs information from map data and car interface (if applicable) to automatically adapt cruise speed to road limits.</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم معلومات علامات حد السرعة من بيانات الخريطة وواجهة السيارة (إن كانت متوفرة) لتكييف سرعة الرحلة تلقائيًا مع حدود الطريق.</translation>
     </message>
     <message>
         <source>Enable Speed Limit Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين إزاحة حد السرعة</translation>
     </message>
     <message>
         <source>Set speed limit slightly higher than actual speed limit for a more natural drive.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتعيين حد السرعة أعلى قليلاً من الحد الفعلي للسرعة للحصول على قيادة أكثر طبيعية.</translation>
     </message>
     <message>
         <source>Enable Map Data Turn Speed Control (M-TSC)</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين تحكم سرعة الدوران في بيانات الخريطة (M-TSC)</translation>
     </message>
     <message>
         <source>Use curvature information from map data to define speed limits to take turns ahead.</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم معلومات الانحناء من بيانات الخريطة لتحديد حدود السرعة للقيام بالمنعطفات المقبلة.</translation>
     </message>
     <message>
         <source>ACC +/-: Long Press Reverse</source>
-        <translation type="unfinished"></translation>
+        <translation>ACC +/-: الضغط المطول للعكس</translation>
     </message>
     <message>
         <source>Change the ACC +/- buttons behavior with cruise speed change in sunnypilot.</source>
-        <translation type="unfinished"></translation>
+        <translation>تغيير سلوك أزرار ACC +/- مع تغيير سرعة الرحلة في القائد الآلي.</translation>
     </message>
     <message>
         <source>Disabled (Stock): Short=1, Long = 5 (imperial) / 10 (metric)</source>
-        <translation type="unfinished"></translation>
+        <translation>معطل (الأسهم): قصير = 1 ، طويل = 5 (النظام الإمبراطوري) / 10 (النظام الأسي)</translation>
     </message>
     <message>
         <source>Enabled: Short = 5 (imperial) / 10 (metric), Long=1</source>
-        <translation type="unfinished"></translation>
+        <translation>ممكّن: قصير = 5 (النظام الإمبراطوري) / 10 (النظام الأسي) ، طويل = 1</translation>
     </message>
     <message>
         <source>OSM: Use Offline Database</source>
-        <translation type="unfinished"></translation>
+        <translation>OSM: استخدام قاعدة بيانات غير متصلة</translation>
     </message>
     <message>
         <source>Laneful</source>
-        <translation type="unfinished"></translation>
+        <translation>مع مسار</translation>
     </message>
     <message>
         <source>Laneless</source>
-        <translation type="unfinished"></translation>
+        <translation>بدون مسار</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>تلقائي</translation>
     </message>
 </context>
 <context>
     <name>SPGeneralPanel</name>
     <message>
         <source>Quiet Drive 🤫</source>
-        <translation type="unfinished"></translation>
+        <translation>قيادة هادئة 🤫</translation>
     </message>
     <message>
         <source>sunnypilot will display alerts but only play the most important warning sounds. This feature can be toggled while the car is on.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيعرض القائد الآلي تنبيهات ولكن سيقوم فقط بتشغيل أهم أصوات التحذير. يمكن تبديل هذه الميزة أثناء تشغيل السيارة.</translation>
     </message>
     <message>
         <source>Green Traffic Light Chime (Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>تنبيه إشارة المرور الخضراء (بيتا)</translation>
     </message>
     <message>
         <source>A chime will play when the traffic light you are waiting for turns green and you have no vehicle in front of you. If you are waiting behind another vehicle, the chime will play once the vehicle advances unless ACC is engaged.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم تشغيل النغمة عندما تتحول إشارة المرور التي تنتظرها إلى اللون الأخضر وليس لديك مركبة أمامك. إذا كنت تنتظر وراء مركبة أخرى ، فسيتم تشغيل النغمة بمجرد تقدم المركبة ما لم يتم تشغيل ACC.</translation>
     </message>
     <message>
         <source>Note: This chime is only designed as a notification. It is the driver&apos;s responsibility to observe their environment and make decisions accordingly.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظة: تم تصميم هذه النغمة فقط كإشعار. من مسؤولية السائق مراقبة بيئته واتخاذ القرارات وفقًا لذلك.</translation>
     </message>
     <message>
         <source>Lead Vehicle Departure Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>تنبيه مغادرة المركبة الرائدة</translation>
     </message>
     <message>
         <source>Enable this will notify when the leading vehicle drives away.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين هذا سيخطر عندما تغادر المركبة الرائدة.</translation>
     </message>
     <message>
         <source>Retain hotspot/tethering state</source>
-        <translation type="unfinished"></translation>
+        <translation>الاحتفاظ بحالة نقطة الوصول / الربط</translation>
     </message>
     <message>
         <source>Enabling this toggle will retain the hotspot/tethering toggle state across reboots.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين هذا التبديل سيحتفظ بحالة تبديل نقطة الوصول / الربط عبر إعادة التشغيل.</translation>
     </message>
     <message>
         <source>Driving Screen Off: Non-Critical Events</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف شاشة القيادة: أحداث غير حرجة</translation>
     </message>
     <message>
         <source>When &lt;b&gt;Driving Screen Off Timer&lt;/b&gt; is not set to &lt;b&gt;&quot;Always On&quot;&lt;/b&gt;:</source>
-        <translation type="unfinished"></translation>
+        <translation>عندما &lt;b&gt; لم يتم تعيين مؤقت إيقاف شاشة القيادة &lt;/b&gt; إلى &lt;b&gt; &quot;دائمًا مفعل&quot; &lt;/b&gt;:</translation>
     </message>
     <message>
         <source>Enabled: Wake the brightness of the screen to display all events.</source>
-        <translation type="unfinished"></translation>
+        <translation>ممكّن: استيقظ على سطوع الشاشة لعرض جميع الأحداث.</translation>
     </message>
     <message>
         <source>Disabled: Wake the brightness of the screen to display critical events.</source>
-        <translation type="unfinished"></translation>
+        <translation>معطل: استيقظ على سطوع الشاشة لعرض الأحداث الحرجة.</translation>
     </message>
     <message>
         <source>Enable Screen Recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين مسجل الشاشة</translation>
     </message>
     <message>
         <source>Enable this will display a button on the onroad screen to toggle on or off real-time screen recording with UI elements.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين هذا سيعرض زرًا على شاشة الطريق لتبديل تسجيل الشاشة في الوقت الفعلي مع عناصر واجهة المستخدم.</translation>
     </message>
     <message>
         <source>Disable Onroad Uploads</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل تحميل الطريق</translation>        
     </message>
     <message>
         <source>Disable uploads completely when onroad. Necessary to avoid high data usage when connected to Wi-Fi hotspot. Turn on this feature if you are looking to utilize map-based features, such as Speed Limit Control (SLC) and Map-based Turn Speed Control (MTSC).</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتعطيل التحميلات بالكامل عند الطريق. ضروري لتجنب استخدام البيانات العالية عند الاتصال بنقطة وصول Wi-Fi. قم بتشغيل هذه الميزة إذا كنت تبحث عن استخدام ميزات قائمة على الخريطة ، مثل التحكم في حد السرعة (SLC) وتحكم سرعة الدوران القائم على الخريطة (MTSC).</translation>
     </message>
     <message>
         <source>Debug snapshot on screen center tap</source>
-        <translation type="unfinished"></translation>
+        <translation>التقاط لقطة تصحيح على مركز الشاشة</translation>
     </message>
     <message>
         <source>Stores snapshot file with current state of some modules.</source>
-        <translation type="unfinished"></translation>
+        <translation>يخزن ملف لقطة لحالة الوحدات الحالية.</translation>
     </message>
 </context>
 <context>
     <name>SPVehiclesTogglesPanel</name>
     <message>
         <source>Hyundai/Kia/Genesis</source>
-        <translation type="unfinished"></translation>
-    </message>
+        <translation>هيونداي / كيا / جينيسيس</translation>
+            </message>
     <message>
         <source>Subaru</source>
-        <translation type="unfinished"></translation>
+        <translation>سوبارو</translation>
     </message>
     <message>
         <source>Manual Parking Brake: Stop and Go (Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>فرملة الوقوف اليدوية: توقف وانطلق (بيتا)</translation>
     </message>
     <message>
         <source>Experimental feature to enable stop and go for Subaru Global models with manual handbrake. Models with electric parking brake should keep this disabled. Thanks to martinl for this implementation!</source>
-        <translation type="unfinished"></translation>
+        <translation>ميزة تجريبية لتمكين التوقف والانطلاق لطرازات سوبارو العالمية مع فرملة يدوية. يجب أن تبقى الطرز ذات الفرامل الكهربائية معطلة. شكرًا لـ martinl على هذا التنفيذ!</translation>
     </message>
     <message>
         <source>Toyota/Lexus</source>
-        <translation type="unfinished"></translation>
+        <translation>تويوتا / لكزس</translation>
     </message>
     <message>
         <source>Allow M.A.D.S. toggling w/ LKAS Button (Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>السماح بتبديل M.A.D.S. w / LKAS Button (بيتا)</translation>
     </message>
     <message>
         <source>Allows M.A.D.S. engagement/disengagement with &quot;LKAS&quot; button from the steering wheel.</source>
-        <translation type="unfinished"></translation>
+        <translation>يسمح بتشغيل / إيقاف M.A.D.S. باستخدام زر &quot;LKAS&quot; من عجلة القيادة.</translation>
     </message>
     <message>
         <source>Note: Enabling this toggle may have unexpected behavior with steering control. It is the driver&apos;s responsibility to observe their environment and make decisions accordingly.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظة: قد يكون تمكين هذا التبديل له سلوك غير متوقع مع التحكم في القيادة. من مسؤولية السائق مراقبة بيئته واتخاذ القرارات وفقًا لذلك.</translation>
     </message>
 </context>
 <context>
     <name>SPVisualsPanel</name>
     <message>
         <source>Display Braking Status</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض حالة الفرملة</translation>
     </message>
     <message>
         <source>Enable this will turn the current speed value to red while the brake is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين هذا سيحول قيمة السرعة الحالية إلى اللون الأحمر أثناء استخدام الفرامل.</translation>
     </message>
     <message>
         <source>Display Stand Still Timer</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض مؤقت الوقوف</translation>
     </message>
     <message>
         <source>Enable this will display time spent at a stop (i.e., at a stop lights, stop signs, traffic congestions).</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين هذا سيعرض الوقت المستغرق في التوقف (أي في إشارات التوقف ، علامات التوقف ، ازدحام المرور).</translation>
     </message>
     <message>
         <source>Show Developer UI</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار واجهة المطور</translation>
     </message>
     <message>
         <source>Show developer UI (Dev UI) for real-time parameters from various sources.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار واجهة المطور (Dev UI) للمعلمات الفورية من مصادر مختلفة.</translation>
     </message>
     <message>
         <source>Auto-Hide UI Buttons</source>
-        <translation type="unfinished"></translation>
+        <translation>أزرار إخفاء واجهة المستخدم تلقائيًا</translation>
     </message>
     <message>
         <source>Hide UI buttons on driving screen after a 30-second timeout. Tap on the screen at anytime to reveal the UI buttons.</source>
-        <translation type="unfinished"></translation>
+        <translation>إخفاء أزرار واجهة المستخدم على شاشة القيادة بعد انتهاء المهلة بمدة 30 ثانية. اضغط على الشاشة في أي وقت لإظهار أزرار واجهة المستخدم.</translation>
     </message>
     <message>
         <source>Display DM Camera in Reverse Gear</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض كاميرا DM عند السير بالخلف</translation>
     </message>
     <message>
         <source>Show Driver Monitoring camera while the car is in reverse gear.</source>
-        <translation type="unfinished"></translation>
+        <translation>إظهار كاميرا مراقبة السائق أثناء سير السيارة بالخلف.</translation>
     </message>
     <message>
         <source>OSM: Show debug UI elements</source>
-        <translation type="unfinished"></translation>
+        <translation>OSM: عرض عناصر واجهة المستخدم التصحيحية</translation>
     </message>
     <message>
         <source>OSM: Show UI elements that aid debugging.</source>
-        <translation type="unfinished"></translation>
+        <translation>OSM: عرض عناصر واجهة المستخدم التي تساعد في التصحيح.</translation>
     </message>
     <message>
         <source>Speedometer: Display True Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>عداد السرعة: عرض السرعة الحقيقية</translation>
     </message>
     <message>
         <source>Display the true vehicle current speed from wheel speed sensors.</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض سرعة المركبة الحالية الحقيقية من أجهزة استشعار سرعة العجلات.</translation>
     </message>
     <message>
         <source>Speedometer: Hide from Onroad Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>عداد السرعة: إخفاء من شاشة الطريق</translation>
     </message>
     <message>
         <source>Display End-to-end Longitudinal Status (Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض حالة الطول النهائي إلى الطول (بيتا)</translation>
     </message>
     <message>
         <source>Enable this will display an icon that appears when the End-to-end model decides to start or stop.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين هذا سيعرض رمزًا يظهر عندما يقرر النموذج من الطرف إلى الطرف البدء أو التوقف.</translation>
     </message>
     <message>
         <source>Map: Display 3D Buildings</source>
-        <translation type="unfinished"></translation>
+        <translation>خريطة: عرض المباني ثلاثية الأبعاد</translation>
     </message>
     <message>
         <source>Parse and display 3D buildings on map. Thanks to jakethesnake420 for this implementation.</source>
-        <translation type="unfinished"></translation>
+        <translation>تحليل وعرض المباني ثلاثية الأبعاد على الخريطة. شكرا لـ jakethesnake420 على هذا التنفيذ.</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف</translation>
     </message>
     <message>
         <source>Ambient</source>
-        <translation type="unfinished"></translation>
+        <translation>المحيط</translation>
     </message>
     <message>
         <source>RAM</source>
-        <translation type="unfinished"></translation>
-    </message>
+        <translation>الذاكرة</translation>
+        </message>
     <message>
         <source>CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>المعالج</translation>
     </message>
     <message>
         <source>GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>بطاقة الرسومات</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished"></translation>
+        <translation>الأقصى</translation>
     </message>
 </context>
 <context>
@@ -1317,205 +1321,205 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Device</source>
-        <translation type="vanished">Gerät</translation>
+        <translation>الجهاز</translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>Netzwerk</translation>
+        <translation>الشبكة</translation>
     </message>
     <message>
         <source>Toggles</source>
-        <translation type="vanished">Schalter</translation>
+        <translation>التبديلات</translation>
     </message>
     <message>
         <source>Software</source>
-        <translation type="vanished">Software</translation>
+        <translation>البرنامج</translation>
     </message>
     <message>
         <source>  Device</source>
-        <translation type="unfinished"></translation>
+        <translation>الجهاز</translation>
     </message>
     <message>
         <source>  Network</source>
-        <translation type="unfinished"></translation>
+        <translation>الشبكة</translation>
     </message>
     <message>
         <source>  Toggles</source>
-        <translation type="unfinished"></translation>
+        <translation>التبديلات</translation>
     </message>
     <message>
         <source>  Software</source>
-        <translation type="unfinished"></translation>
+        <translation>البرنامج</translation>
     </message>
     <message>
         <source>  SP - General</source>
-        <translation type="unfinished"></translation>
+        <translation>NMK - عام</translation>
     </message>
     <message>
         <source>  SP - Controls</source>
-        <translation type="unfinished"></translation>
+        <translation>NMK - التحكم</translation>
     </message>
     <message>
         <source>  SP - Vehicles</source>
-        <translation type="unfinished"></translation>
+        <translation>NMK - المركبات</translation>
     </message>
     <message>
         <source>  SP - Visuals</source>
-        <translation type="unfinished"></translation>
+        <translation>NMK - المظاهر</translation>
     </message>
 </context>
 <context>
     <name>Setup</name>
     <message>
         <source>WARNING: Low Voltage</source>
-        <translation>Warnung: Batteriespannung niedrig</translation>
+        <translation>تحذير: الجهد المنخفض</translation>
     </message>
     <message>
         <source>Power your device in a car with a harness or proceed at your own risk.</source>
-        <translation>Versorge dein Gerät über einen Kabelbaum im Auto mit Strom, oder fahre auf eigene Gefahr fort.</translation>
+        <translation>قم بتشغيل جهازك في سيارة مع كابل أو تابع على مسؤوليتك الخاصة.</translation>
     </message>
     <message>
         <source>Power off</source>
-        <translation>Ausschalten</translation>
+        <translation>إيقاف تشغيل</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation>Fortsetzen</translation>
+        <translation>استمرار</translation>
     </message>
     <message>
         <source>Getting Started</source>
-        <translation>Loslegen</translation>
+        <translation>البدء</translation>
     </message>
     <message>
         <source>Before we get on the road, let’s finish installation and cover some details.</source>
-        <translation>Bevor wir uns auf die Straße begeben, lass uns die Installation fertigstellen und einige Details prüfen.</translation>
+        <translation>قبل أن نبدأ في الطريق ، دعنا ننهي التثبيت ونغطي بعض التفاصيل.</translation>
     </message>
     <message>
         <source>Connect to Wi-Fi</source>
-        <translation>Mit WLAN verbinden</translation>
+        <translation>الاتصال بشبكة واي فاي</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Zurück</translation>
+        <translation>رجوع</translation>
     </message>
     <message>
         <source>Continue without Wi-Fi</source>
-        <translation>Ohne WLAN fortsetzen</translation>
+        <translation>الاستمرار بدون واي فاي</translation>
     </message>
     <message>
         <source>Waiting for internet</source>
-        <translation>Auf Internet warten</translation>
+        <translation>انتظار الإنترنت</translation>
     </message>
     <message>
         <source>Enter URL</source>
-        <translation>URL eingeben</translation>
+        <translation>أدخل عنوان URL</translation>
     </message>
     <message>
         <source>for Custom Software</source>
-        <translation>für spezifische Software</translation>
+        <translation>للبرامج المخصصة</translation>
     </message>
     <message>
         <source>Downloading...</source>
-        <translation>Herunterladen...</translation>
+        <translation>جاري التحميل...</translation>
     </message>
     <message>
         <source>Download Failed</source>
-        <translation>Herunterladen fehlgeschlagen</translation>
+        <translation>فشل التحميل</translation>
     </message>
     <message>
         <source>Ensure the entered URL is valid, and the device’s internet connection is good.</source>
-        <translation>Stelle sicher, dass die eingegebene URL korrekt ist und dein Gerät eine stabile Internetverbindung hat.</translation>
+        <translation>تأكد من صحة عنوان URL المدخل وأن اتصال الجهاز بالإنترنت جيد.</translation>
     </message>
     <message>
         <source>Reboot device</source>
-        <translation>Gerät neustarten</translation>
+        <translation>إعادة تشغيل الجهاز</translation>
     </message>
     <message>
         <source>Start over</source>
-        <translation>Von neuem beginnen</translation>
+        <translation>ابدأ من جديد</translation>
     </message>
     <message>
         <source>No custom software found at this URL.</source>
-        <translation type="unfinished"></translation>
+        <translation>لم يتم العثور على برامج مخصصة على هذا الرابط.</translation>
     </message>
     <message>
         <source>Something went wrong. Reboot the device.</source>
-        <translation type="unfinished"></translation>
+        <translation>حدث خطأ ما. أعد تشغيل الجهاز.</translation>
     </message>
     <message>
         <source>Select a language</source>
-        <translation>Sprache wählen</translation>
+        <translation>اختر لغة</translation>
     </message>
 </context>
 <context>
     <name>SetupWidget</name>
     <message>
         <source>Finish Setup</source>
-        <translation>Einrichtung beenden</translation>
+        <translation>إنهاء الإعداد</translation>
     </message>
     <message>
         <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>Koppele dein Gerät mit Comma Connect (connect.comma.ai) und sichere dir dein Comma Prime Angebot.</translation>
+        <translation>قم بتوصيل جهازك بـ Comma Connect (connect.nmk.sa) واحصل على عرض Comma Prime الخاص بك.</translation>
     </message>
     <message>
         <source>Pair device</source>
-        <translation>Gerät koppeln</translation>
+        <translation>ربط الجهاز</translation>
     </message>
 </context>
 <context>
     <name>Sidebar</name>
     <message>
         <source>CONNECT</source>
-        <translatorcomment>This is a brand/service name for comma connect, don&apos;t translate</translatorcomment>
-        <translation>CONNECT</translation>
+        <translatorcomment>هذا هو اسم العلامة التجارية / الخدمة لـ nmk Connect</translatorcomment>
+        <translation>اتصال</translation>
     </message>
     <message>
         <source>OFFLINE</source>
-        <translation>OFFLINE</translation>
+        <translation>غير متصل</translation>
     </message>
     <message>
         <source>ONLINE</source>
-        <translation>ONLINE</translation>
+        <translation>متصل</translation>
     </message>
     <message>
         <source>ERROR</source>
-        <translation>FEHLER</translation>
+        <translation>خطأ</translation>
     </message>
     <message>
         <source>TEMP</source>
-        <translation>TEMP</translation>
+        <translation>الحرارة</translation>
     </message>
     <message>
         <source>HIGH</source>
-        <translation>HOCH</translation>
+        <translation>مرتفعة</translation>
     </message>
     <message>
         <source>GOOD</source>
-        <translation>GUT</translation>
+        <translation>متوسطة</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>جيدة</translation>
     </message>
     <message>
         <source>VEHICLE</source>
-        <translation>FAHRZEUG</translation>
+        <translation>المركبة</translation>
     </message>
     <message>
         <source>NO</source>
-        <translation>KEIN</translation>
+        <translation>لا</translation>
     </message>
     <message>
         <source>PANDA</source>
-        <translation>PANDA</translation>
+        <translation>الباندا</translation>
     </message>
     <message>
         <source>GPS</source>
-        <translation>GPS</translation>
+        <translation>جي بي اس</translation>
     </message>
     <message>
         <source>SEARCH</source>
-        <translation>SUCHEN</translation>
+        <translation>بحث</translation>
     </message>
     <message>
         <source>--</source>
@@ -1523,11 +1527,11 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Wi-Fi</source>
-        <translation>WLAN</translation>
+        <translation>واي فاي</translation>
     </message>
     <message>
         <source>ETH</source>
-        <translation>LAN</translation>
+        <translation>الشبكة</translation>
     </message>
     <message>
         <source>2G</source>
@@ -1551,127 +1555,128 @@ This may take up to a minute.</source>
     <message>
         <source>UNINSTALL</source>
         <translatorcomment>Too long for UI</translatorcomment>
-        <translation>DEINSTALL</translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>Uninstall %1</source>
-        <translation>Deinstalliere %1</translation>
+        <translation>حذف %1</translation>
     </message>
     <message>
         <source>Are you sure you want to uninstall?</source>
-        <translation>Bist du sicher, dass du Openpilot entfernen möchtest?</translation>
+        <translation>هل أنت متأكد أنك تريد الحذف؟</translation>
     </message>
     <message>
         <source>CHECK</source>
-        <translation>ÜBERPRÜFEN</translation>
+        <translation>التحقق</translation>
     </message>
     <message>
         <source>Updates are only downloaded while the car is off.</source>
-        <translation>Updates werden nur heruntergeladen, wenn das Auto aus ist.</translation>
+        <translation>يتم تنزيل التحديثات فقط أثناء إيقاف تشغيل السيارة.</translation>
     </message>
     <message>
         <source>Current Version</source>
-        <translation>Aktuelle Version</translation>
+        <translation>الإصدار الحالي</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Download</translation>
+        <translation>تحميل</translation>
     </message>
     <message>
         <source>Install Update</source>
-        <translation>Update installieren</translation>
+        <translation>تثبيت التحديث</translation>
     </message>
     <message>
         <source>INSTALL</source>
-        <translation>INSTALLIEREN</translation>
+        <translation>تثبيت</translation>
     </message>
     <message>
         <source>Target Branch</source>
-        <translation>Ziel Branch</translation>
+        <translation>الفرع البرمجي</translation>
     </message>
     <message>
         <source>SELECT</source>
-        <translation>AUSWÄHLEN</translation>
+        <translation>اختر</translation>
     </message>
     <message>
         <source>Select a branch</source>
-        <translation>Wähle einen Branch</translation>
+        <translation>اختر فرع</translation>
     </message>
     <message>
         <source>Uninstall</source>
-        <translation>Deinstallieren</translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>failed to check for update</source>
-        <translation type="unfinished"></translation>
+        <translation>فشل التحقق من التحديث</translation>
     </message>
     <message>
         <source>up to date, last checked %1</source>
-        <translation type="unfinished"></translation>
+        <translation>محدث ، آخر تحقق %1</translation>
     </message>
     <message>
         <source>DOWNLOAD</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل</translation>
     </message>
     <message>
         <source>update available</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث متاح</translation>
     </message>
     <message>
         <source>never</source>
-        <translation type="unfinished"></translation>
+        <translation>أبدا</translation>
     </message>
     <message>
         <source>Current Driving Model</source>
-        <translation type="unfinished"></translation>
+        <translation>النموذج الحالي للقيادة</translation>
     </message>
     <message>
         <source>Database updates can be downloaded while the car is off.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكن تنزيل تحديثات قاعدة البيانات أثناء إيقاف تشغيل السيارة.</translation>
     </message>
     <message>
         <source>OpenStreetMap Database Update</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث قاعدة بيانات OpenStreetMap</translation>
     </message>
     <message>
         <source>Are you sure you want to reboot and perform a database update?
 Estimated time: 30-90 minutes</source>
-        <translation type="unfinished"></translation>
-    </message>
+        <translation>هل أنت متأكد أنك تريد إعادة التشغيل وتنفيذ تحديث قاعدة البيانات؟
+الوقت المقدر: 30-90 دقيقة</translation>
+        </message>
     <message>
         <source>Reboot</source>
-        <translation type="unfinished">Neustart</translation>
+        <translation>إعادة تشغيل</translation>
     </message>
     <message>
         <source>OpenStreetMap Database</source>
-        <translation type="unfinished"></translation>
+        <translation>قاعدة بيانات OpenStreetMap</translation>
     </message>
     <message>
         <source>Select your location</source>
-        <translation type="unfinished"></translation>
+        <translation>اختر موقعك</translation>
     </message>
     <message>
         <source>Are you sure you want to reboot to start downloading the selected database? Estimated time: 30-90 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>هل أنت متأكد أنك تريد إعادة التشغيل لبدء تنزيل قاعدة البيانات المحددة؟ الوقت المقدر: 30-90 دقيقة</translation>
     </message>
 </context>
 <context>
     <name>SpeedLimitOffsetType</name>
     <message>
         <source>Speed Limit Offset Type</source>
-        <translation type="unfinished"></translation>
+        <translation>نوع إزاحة حد السرعة</translation>
     </message>
     <message>
         <source>Set speed limit higher or lower than actual speed limit for a more personalized drive.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتعيين حد السرعة أعلى أو أقل من الحد الفعلي للسرعة لقيادة أكثر تخصيصًا.</translation>
     </message>
     <message>
         <source>To use this feature, turn off &quot;Enable Speed Limit % Offset&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>لاستخدام هذه الميزة ، قم بإيقاف تشغيل &quot;تمكين إزاحة حد السرعة %&quot;.</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>افتراضي</translation>
     </message>
     <message>
         <source>%</source>
@@ -1679,341 +1684,343 @@ Estimated time: 30-90 minutes</source>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished"></translation>
+        <translation>القيمة</translation>
     </message>
 </context>
 <context>
     <name>SshControl</name>
     <message>
         <source>SSH Keys</source>
-        <translation>SSH Schlüssel</translation>
+        <translation>مفاتيح SSH</translation>
     </message>
     <message>
         <source>Warning: This grants SSH access to all public keys in your GitHub settings. Never enter a GitHub username other than your own. A comma employee will NEVER ask you to add their GitHub username.</source>
-        <translation>Warnung: Dies ermöglicht SSH zugriff für alle öffentlichen Schlüssel in deinen Github Einstellungen. Gib niemals einen anderen Benutzernamen, als deinen Eigenen an. Comma Angestellte fragen dich niemals danach ihren Github Benutzernamen hinzuzufügen.</translation>
+        <translation>تحذير: يمنح هذا الوصول إلى SSH لجميع المفاتيح العامة في إعدادات GitHub الخاصة بك. لا تدخل اسم مستخدم GitHub غير الخاص بك. لن يطلب منك أي موظف في Comma أبدًا إضافة اسم مستخدم GitHub الخاص بهم.</translation>
     </message>
     <message>
         <source>ADD</source>
-        <translation>HINZUFÜGEN</translation>
+        <translation>إضافة</translation>
     </message>
     <message>
         <source>Enter your GitHub username</source>
-        <translation>Gib deinen GitHub Benutzernamen ein</translation>
+        <translation>أدخل اسم مستخدم GitHub الخاص بك</translation>
     </message>
     <message>
         <source>LOADING</source>
-        <translation>LADEN</translation>
+        <translation>جار التحميل</translation>
     </message>
     <message>
         <source>REMOVE</source>
-        <translation>LÖSCHEN</translation>
+        <translation>حذف</translation>
     </message>
     <message>
         <source>Username &apos;%1&apos; has no keys on GitHub</source>
-        <translation>Benutzername &apos;%1&apos; hat keine Schlüssel auf GitHub</translation>
+        <translation>اسم المستخدم &apos;%1&apos; ليس لديه مفاتيح على GitHub</translation>
     </message>
     <message>
         <source>Request timed out</source>
-        <translation>Zeitüberschreitung der Anforderung</translation>
+        <translation>انتهت مهلة الطلب</translation>
     </message>
     <message>
         <source>Username &apos;%1&apos; doesn&apos;t exist on GitHub</source>
-        <translation>Benutzername &apos;%1&apos; existiert nicht auf GitHub</translation>
+        <translation>اسم المستخدم &apos;%1&apos; غير موجود على GitHub</translation>
     </message>
 </context>
 <context>
     <name>SshToggle</name>
     <message>
         <source>Enable SSH</source>
-        <translation>SSH aktivieren</translation>
+        <translation>تمكين SSH</translation>
     </message>
 </context>
 <context>
     <name>TermsPage</name>
     <message>
         <source>Terms &amp; Conditions</source>
-        <translation>Benutzungsbedingungen</translation>
+        <translation>الشروط والأحكام</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation>Ablehnen</translation>
+        <translation>رفض</translation>
     </message>
     <message>
         <source>Scroll to accept</source>
-        <translation>Scrolle herunter um zu akzeptieren</translation>
+        <translation>تمرير للقبول</translation>
     </message>
     <message>
         <source>Agree</source>
-        <translation>Zustimmen</translation>
+        <translation>موافقة</translation>
     </message>
 </context>
 <context>
     <name>TogglesPanel</name>
     <message>
         <source>Enable openpilot</source>
-        <translation type="vanished">Openpilot aktivieren</translation>
+        <translation>تمكين القائد الآلي</translation>
     </message>
     <message>
         <source>Use the openpilot system for adaptive cruise control and lane keep driver assistance. Your attention is required at all times to use this feature. Changing this setting takes effect when the car is powered off.</source>
-        <translation type="vanished">Benutze das Openpilot System als adaptiven Tempomaten und Spurhalteassistenten. Deine Aufmerksamkeit ist jederzeit erforderlich, um diese Funktion zu nutzen. Diese Einstellung wird übernommen, wenn das Auto aus ist.</translation>
+        <translation>استخدم نظام القائد الآلي للتحكم في السرعة المتكيف ومساعدة السائق على الحفاظ على المسار. مطلوب انتباهك في جميع الأوقات لاستخدام هذه الميزة. يتم تغيير هذا الإعداد عند إيقاف تشغيل السيارة.</translation>
     </message>
     <message>
         <source>Enable Lane Departure Warnings</source>
+        <translation>تمكين تحذيرات مغادرة المسار</translation>
         <translation>Spurverlassenswarnungen aktivieren</translation>
     </message>
     <message>
         <source>Receive alerts to steer back into the lane when your vehicle drifts over a detected lane line without a turn signal activated while driving over 31 mph (50 km/h).</source>
-        <translation>Erhalte Warnungen, zurück in die Spur zu lenken, wenn dein Auto über eine erkannte Fahrstreifenmarkierung ohne aktivierten Blinker mit mehr als 50 km/h fährt.</translation>
+        <translation>تلقي تنبيهات للعودة إلى المسار عندما تنحرف مركبتك عن خط مسار مكتشف دون تشغيل إشارة للدوران أثناء القيادة بأكثر من 31 ميلاً في الساعة (50 كم / ساعة).</translation>
     </message>
     <message>
         <source>Use Metric System</source>
-        <translation>Benutze das metrische System</translation>
+        <translation>استخدم النظام المتري</translation>
     </message>
     <message>
         <source>Display speed in km/h instead of mph.</source>
-        <translation>Zeige die Geschwindigkeit in km/h anstatt von mph.</translation>
+        <translation>عرض السرعة بالكيلومتر في الساعة بدلاً من الأميال في الساعة.</translation>
     </message>
     <message>
         <source>Record and Upload Driver Camera</source>
-        <translation>Fahrerkamera aufnehmen und hochladen</translation>
+        <translation>تسجيل وتحميل كاميرا السائق</translation>
     </message>
     <message>
         <source>Upload data from the driver facing camera and help improve the driver monitoring algorithm.</source>
-        <translation>Lade Daten der Fahreraufmerksamkeitsüberwachungskamera hoch, um die Fahreraufmerksamkeitsüberwachungsalgorithmen zu verbessern.</translation>
+        <translation>قم بتحميل بيانات من كاميرا مراقبة السائق وساعد في تحسين خوارزمية مراقبة السائق.</translation>
     </message>
     <message>
         <source>When enabled, pressing the accelerator pedal will disengage openpilot.</source>
-        <translation>Wenn aktiviert, deaktiviert sich Openpilot sobald das Gaspedal betätigt wird.</translation>
+        <translation>عند التمكين ، سيؤدي الضغط على دواسة الوقود إلى إلغاء تشغيل القائد الآلي.</translation>
     </message>
     <message>
         <source>Use 24h format instead of am/pm</source>
-        <translation>Benutze das 24Stunden Format anstatt am/pm</translation>
+        <translation>استخدم التنسيق 24 ساعة بدلاً من am/pm</translation>
     </message>
     <message>
         <source>Show Map on Left Side of UI</source>
         <translatorcomment>Too long for UI</translatorcomment>
-        <translation>Zeige die Karte auf der linken Seite</translation>
+        <translation>عرض الخريطة على الجانب الأيسر من واجهة المستخدم</translation>
     </message>
     <message>
         <source>Show map on left side when in split screen view.</source>
-        <translation>Zeige die Karte auf der linken Seite der Benutzeroberfläche bei geteilten Bildschirm.</translation>
+        <translation>عرض الخريطة على الجانب الأيسر عند عرض الشاشة المقسمة.</translation>
     </message>
     <message>
         <source>Show ETA in 24h Format</source>
         <translatorcomment>Too long for UI</translatorcomment>
-        <translation>Zeige die Ankunftszeit im 24 Stunden Format</translation>
+        <translation>عرض وقت الوصول المتوقع في تنسيق 24 ساعة</translation>
     </message>
     <message>
         <source>Experimental Mode</source>
-        <translation>Experimenteller Modus</translation>
+        <translation>الوضع التجريبي</translation>
     </message>
     <message>
         <source>Disengage on Accelerator Pedal</source>
-        <translation>Bei Gasbetätigung ausschalten</translation>
+        <translation>إلغاء التشغيل على دواسة الوقود</translation>
     </message>
     <message>
         <source>openpilot defaults to driving in &lt;b&gt;chill mode&lt;/b&gt;. Experimental mode enables &lt;b&gt;alpha-level features&lt;/b&gt; that aren&apos;t ready for chill mode. Experimental features are listed below:</source>
-        <translation>Openpilot fährt standardmäßig im &lt;b&gt;entspannten Modus&lt;/b&gt;. Der Experimentelle Modus aktiviert&lt;b&gt;Alpha-level Funktionen&lt;/b&gt;, die noch nicht für den entspannten Modus bereit sind. Die experimentellen Funktionen sind die Folgenden:</translation>
+        <translation>يفترض أن يقود القائد الآلي في &lt;b&gt;وضع الاسترخاء&lt;/b&gt;. يمكن للوضع التجريبي تمكين &lt;b&gt;ميزات مستوى ألفا&lt;/b&gt; التي ليست جاهزة لوضع الاسترخاء. تم سرد الميزات التجريبية أدناه:</translation>
     </message>
     <message>
         <source>Let the driving model control the gas and brakes. openpilot will drive as it thinks a human would, including stopping for red lights and stop signs. Since the driving model decides the speed to drive, the set speed will only act as an upper bound. This is an alpha quality feature; mistakes should be expected.</source>
-        <translation>Lass das Fahrmodell Gas und Bremse kontrollieren. Openpilot wird so fahren, wie es dies von einem Menschen erwarten würde; inklusive des Anhaltens für Ampeln und Stoppschildern. Da das Fahrmodell entscheidet wie schnell es fährt stellt die gesetzte Geschwindigkeit lediglich das obere Limit dar. Dies ist ein Alpha-level Funktion. Fehler sind zu erwarten.</translation>
+        <translation>دع نموذج القيادة يتحكم في الوقود والفرامل. سيقود القائد الآلي كما يعتقد أن الإنسان سيفعل ، بما في ذلك التوقف عند الإشارات الحمراء وعلامات التوقف. نظرًا لأن نموذج القيادة يقرر السرعة التي يجب القيادة بها ، فإن السرعة المحددة ستعمل فقط كحد أقصى. هذه ميزة ذات جودة ألفا ؛ يجب توقع الأخطاء.</translation>
     </message>
     <message>
         <source>New Driving Visualization</source>
-        <translation>Neue Fahrvisualisierung</translation>
+        <translation>تصور القيادة الجديد</translation>
     </message>
     <message>
         <source>Experimental mode is currently unavailable on this car since the car&apos;s stock ACC is used for longitudinal control.</source>
-        <translation>Der experimentelle Modus ist momentan für dieses Auto nicht verfügbar da es den eingebauten adaptiven Tempomaten des Autos benutzt.</translation>
+        <translation>الوضع التجريبي غير متوفر حاليًا على هذه السيارة لأن ACC الأسهم للسيارة يستخدم للتحكم طوليًا.</translation>
     </message>
     <message>
         <source>openpilot Longitudinal Control (Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>التحكم الطولي في القائد الآلي (ألفا)</translation>
     </message>
     <message>
         <source>WARNING: openpilot longitudinal control is in alpha for this car and will disable Automatic Emergency Braking (AEB).</source>
-        <translation type="unfinished"></translation>
+        <translation>تحذير: التحكم الطولي في القائد الآلي في ألفا لهذه السيارة وسيقوم بتعطيل الفرامل الطارئة التلقائية (AEB).</translation>
     </message>
     <message>
         <source>Relaxed</source>
-        <translation type="unfinished"></translation>
+        <translation>استرخاء</translation>
     </message>
     <message>
         <source>Driving Personality</source>
-        <translation type="unfinished"></translation>
+        <translation>القيادة الذكية</translation>
     </message>
     <message>
         <source>On this car, openpilot defaults to the car&apos;s built-in ACC instead of openpilot&apos;s longitudinal control. Enable this to switch to openpilot longitudinal control. Enabling Experimental mode is recommended when enabling openpilot longitudinal control alpha.</source>
-        <translation type="unfinished"></translation>
+        <translation>على هذه السيارة ، يفترض أن يستخدم القائد الآلي ACC المدمج في السيارة بدلاً من التحكم الطولي في القائد الآلي. قم بتمكين هذا للتبديل إلى التحكم الطولي في القائد الآلي. يُوصى بتمكين الوضع التجريبي عند تمكين التحكم الطولي في القائد الآلي ألفا.</translation>
     </message>
     <message>
         <source>End-to-End Longitudinal Control</source>
-        <translation type="unfinished"></translation>
+        <translation>التحكم الطولي من البداية إلى النهاية</translation>
     </message>
     <message>
         <source>Navigate on openpilot</source>
-        <translation type="unfinished"></translation>
+        <translation>تصفح على القائد الآلي</translation>
     </message>
     <message>
         <source>When navigation has a destination, openpilot will input the map information into the model. This provides useful context for the model and allows openpilot to keep left or right appropriately at forks/exits. Lane change behavior is unchanged and still activated by the driver. This is an alpha quality feature; mistakes should be expected, particularly around exits and forks. These mistakes can include unintended laneline crossings, late exit taking, driving towards dividing barriers in the gore areas, etc.</source>
-        <translation type="unfinished"></translation>
+        <translation>عندما يكون للتنقل وجهة ، سيقوم القائد الآلي بإدخال معلومات الخريطة في النموذج. يوفر هذا السياق المفيد للنموذج ويسمح للقائد الآلي بالبقاء على اليسار أو اليمين بشكل مناسب في الشوكات / المخارج. سلوك تغيير المسار لم يتغير وما زال يتم تنشيطه من قبل السائق. هذه ميزة ذات جودة ألفا ؛ يجب توقع الأخطاء ، ولا سيما حول المخارج والشوكات. يمكن أن تشمل هذه الأخطاء عبور خطوط الحافة غير المقصودة ، والخروج المتأخر ، والقيادة نحو حواجز التقسيم في مناطق الذبذبات ، إلخ.</translation>
     </message>
     <message>
         <source>The driving visualization will transition to the road-facing wide-angle camera at low speeds to better show some turns. The Experimental mode logo will also be shown in the top right corner. When a navigation destination is set and the driving model is using it as input, the driving path on the map will turn green.</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتحول تصور القيادة إلى كاميرا زاوية واسعة تواجه الطريق عند السرعات المنخفضة لإظهار بعض المنعطفات بشكل أفضل. سيتم أيضًا عرض شعار الوضع التجريبي في الزاوية اليمنى العليا. عند تعيين وجهة التنقل واستخدام نموذج القيادة كمدخل ، سيتحول المسار القيادي على الخريطة إلى اللون الأخضر.</translation>
     </message>
     <message>
         <source>openpilot longitudinal control may come in a future update.</source>
-        <translation type="unfinished"></translation>
+        <translation>قد يأتي التحكم الطولي في القائد الآلي في تحديث مستقبلي.</translation>
     </message>
     <message>
         <source>An alpha version of openpilot longitudinal control can be tested, along with Experimental mode, on non-release branches.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكن اختبار الإصدار ألفا من التحكم الطولي في القائد الآلي ، جنبًا إلى جنب مع الوضع التجريبي ، على فروع غير الإصدار.</translation>
     </message>
     <message>
         <source>Enable the openpilot longitudinal control (alpha) toggle to allow Experimental mode.</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بتمكين تبديل التحكم الطولي في القائد الآلي (ألفا) للسماح بالوضع التجريبي.</translation>
     </message>
     <message>
         <source>Enable sunnypilot</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين القائد الآلي</translation>
     </message>
     <message>
         <source>Use the sunnypilot system for adaptive cruise control and lane keep driver assistance. Your attention is required at all times to use this feature. Changing this setting takes effect when the car is powered off.</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم نظام القائد الآلي للتحكم في السرعة المتكيف ومساعدة السائق على الحفاظ على المسار. مطلوب انتباهك في جميع الأوقات لاستخدام هذه الميزة. يتم تغيير هذا الإعداد عند إيقاف تشغيل السيارة.</translation>
     </message>
     <message>
         <source>Custom Stock Longitudinal Control</source>
-        <translation type="unfinished"></translation>
+        <translation>التحكم الطولي المخصص في الأسهم</translation>
     </message>
     <message>
         <source>When enabled, sunnypilot will attempt to control stock longitudinal control with ACC button presses.
 This feature must be used along with SLC, and/or V-TSC, and/or M-TSC.</source>
-        <translation type="unfinished"></translation>
+        <translation>عند التمكين ، سيحاول القائد الآلي التحكم في التحكم الطولي في الأسهم باستخدام ضغطات زر ACC.
+يجب استخدام هذه الميزة مع SLC و / أو V-TSC و / أو M-TSC.</translation>
     </message>
     <message>
         <source>Use Planner Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>استخدم سرعة المخطط</translation>
     </message>
     <message>
         <source>Maniac</source>
-        <translation type="unfinished"></translation>
+        <translation>مجنون</translation>
     </message>
     <message>
         <source>Aggro</source>
-        <translation type="unfinished"></translation>
+        <translation>عدواني</translation>
     </message>
     <message>
         <source>Stock</source>
-        <translation type="unfinished"></translation>
+        <translation>الأسهم</translation>
     </message>
     <message>
         <source>Stock is recommended. In aggressive/maniac mode, openpilot will follow lead cars closer and be more aggressive with the gas and brake. In relaxed mode openpilot will stay further away from lead cars.</source>
-        <translation type="unfinished"></translation>
+        <translation>يوصى باستخدام الأسهم. في وضع العدوانية / المجنون ، سيتبع القائد الآلي السيارات الرائدة عن كثب ويكون أكثر عدوانية مع الغاز والفرامل. في وضع الاسترخاء ، سيبقى القائد الآلي بعيدًا عن السيارات الرائدة.</translation>
     </message>
 </context>
 <context>
     <name>TorqueFriction</name>
     <message>
         <source>FRICTION</source>
-        <translation type="unfinished"></translation>
+        <translation>احتكاك</translation>
     </message>
     <message>
         <source>Adjust Friction for the Torque Lateral Controller. &lt;b&gt;Live&lt;/b&gt;: Override self-tune values; &lt;b&gt;Offline&lt;/b&gt;: Override self-tune offline values at car restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط الاحتكاك لتحكم القوة الجانبية. &lt;b&gt;Live&lt;/b&gt;: تجاوز قيم الضبط الذاتي. &lt;b&gt;Offline&lt;/b&gt;: تجاوز قيم الضبط الذاتي غير المتصلة عند إعادة تشغيل السيارة.</translation>
     </message>
 </context>
 <context>
     <name>TorqueMaxLatAccel</name>
     <message>
         <source>LAT_ACCEL_FACTOR</source>
-        <translation type="unfinished"></translation>
+        <translation>عامل التسارع الجانبي</translation>
     </message>
     <message>
         <source>Adjust Max Lateral Acceleration for the Torque Lateral Controller. &lt;b&gt;Live&lt;/b&gt;: Override self-tune values; &lt;b&gt;Offline&lt;/b&gt;: Override self-tune offline values at car restart.</source>
-        <translation type="unfinished"></translation>
+        <translation>ضبط التسارع الجانبي الأقصى لتحكم القوة الجانبية. &lt;b&gt;Live&lt;/b&gt;: تجاوز قيم الضبط الذاتي. &lt;b&gt;Offline&lt;/b&gt;: تجاوز قيم الضبط الذاتي غير المتصلة عند إعادة تشغيل السيارة.</translation>
     </message>
 </context>
 <context>
     <name>Updater</name>
     <message>
         <source>Update Required</source>
-        <translation>Aktualisierung notwendig</translation>
+        <translation>تحديث مطلوب</translation>
     </message>
     <message>
         <source>An operating system update is required. Connect your device to Wi-Fi for the fastest update experience. The download size is approximately 1GB.</source>
-        <translation>Eine Aktualisierung des Betriebssystems ist notwendig. Verbinde dein Gerät mit WLAN für ein schnelleres Update. Die Download Größe ist ungefähr 1GB.</translation>
+        <translation>مطلوب تحديث نظام التشغيل. قم بتوصيل جهازك بشبكة Wi-Fi للحصول على تجربة تحديث أسرع. حجم التنزيل حوالي 1 جيجابايت.</translation>
     </message>
     <message>
         <source>Connect to Wi-Fi</source>
-        <translation>Mit WLAN verbinden</translation>
+        <translation>الاتصال بشبكة Wi-Fi</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation>Installieren</translation>
+        <translation>تثبيت</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation>Zurück</translation>
+        <translation>رجوع</translation>
     </message>
     <message>
         <source>Loading...</source>
-        <translation>Laden...</translation>
+        <translation>جار التحميل...</translation>
     </message>
     <message>
         <source>Reboot</source>
-        <translation>Neustart</translation>
+        <translation>إعادة تشغيل</translation>
     </message>
     <message>
         <source>Update failed</source>
-        <translation>Aktualisierung fehlgeschlagen</translation>
+        <translation>فشل التحديث</translation>
     </message>
 </context>
 <context>
     <name>WiFiPromptWidget</name>
     <message>
         <source>Setup Wi-Fi</source>
-        <translation type="unfinished"></translation>
+        <translation>إعداد Wi-Fi</translation>
     </message>
     <message>
         <source>Connect to Wi-Fi to upload driving data and help improve openpilot</source>
-        <translation type="unfinished"></translation>
+        <translation>قم بالاتصال بشبكة Wi-Fi لتحميل بيانات القيادة ومساعدة القائد الآلي على التحسين</translation>
     </message>
     <message>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح الإعدادات</translation>
     </message>
     <message>
         <source>Ready to upload</source>
-        <translation type="unfinished"></translation>
+        <translation>جاهز للتحميل</translation>
     </message>
     <message>
         <source>Training data will be pulled periodically while your device is on Wi-Fi</source>
-        <translation type="unfinished"></translation>
+        <translation>سيتم سحب بيانات التدريب بشكل دوري أثناء تشغيل جهازك على Wi-Fi</translation>
     </message>
 </context>
 <context>
     <name>WifiUI</name>
     <message>
         <source>Scanning for networks...</source>
-        <translation>Suche nach Netzwerken...</translation>
+        <translation>البحث عن شبكات...</translation>
     </message>
     <message>
         <source>CONNECTING...</source>
-        <translation>VERBINDEN...</translation>
+        <translation>جار الاتصال...</translation>
     </message>
     <message>
         <source>FORGET</source>
-        <translation>VERGESSEN</translation>
+        <translation>نسيان</translation>
     </message>
     <message>
         <source>Forget Wi-Fi Network &quot;%1&quot;?</source>
-        <translation>WLAN Netzwerk &quot;%1&quot; vergessen?</translation>
+        <translation>نسيان شبكة Wi-Fi &quot;%1&quot;؟</translation>
     </message>
     <message>
         <source>Forget</source>
-        <translation>Vergessen</translation>
+        <translation>نسيان</translation>
     </message>
 </context>
 </TS>
