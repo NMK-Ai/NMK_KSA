@@ -11,7 +11,7 @@ from openpilot.selfdrive.ui.update_translations import TRANSLATIONS_DIR, LANGUAG
 TMP_TRANSLATIONS_DIR = os.path.join(TRANSLATIONS_DIR, "tmp")
 UNFINISHED_TRANSLATION_TAG = "<translation type=\"unfinished\""  # non-empty translations can be marked unfinished
 LOCATION_TAG = "<location "
-FORMAT_ARG = re.compile("%[0-9]+")
+FORMAT_ARG = re.compile("%[0-11]+")
 
 
 class TestTranslations(unittest.TestCase):
