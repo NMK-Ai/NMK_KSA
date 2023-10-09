@@ -46,7 +46,7 @@ if __name__ == "__main__":
   parser = argparse.ArgumentParser(description="Update translation files for UI",
                                    formatter_class=argparse.ArgumentDefaultsHelpFormatter)
   parser.add_argument("--vanish", action="store_true", help="Remove translations with source text no longer found")
-  parser.add_argument("--plural-only", type=str, nargs="*", default=["main_en"],
+parser.add_argument("--plural-only", type=str, nargs="*", default=["main_en", "main_ar"],
                       help="Translation codes to only create plural translations for (ie. the base language)")
   args = parser.parse_args()
 
