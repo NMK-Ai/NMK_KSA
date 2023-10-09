@@ -1,7 +1,7 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource>
 <file alias="main_en">../ui/translations/main_en.qm</file>
-<file alias="main_ar">../ui/translations/main_ar.qm</file>  <!-- هنا تم التعديل -->
+<file alias="main_ar">../ui/translations/main_ar.qm</file>
 <file alias="main_de">../ui/translations/main_de.qm</file>
 <file alias="main_fr">../ui/translations/main_fr.qm</file>
 <file alias="main_pt-BR">../ui/translations/main_pt-BR.qm</file>
